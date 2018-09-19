@@ -10,7 +10,7 @@ tags = ["xiaomi", "pi-hole", "adblock", "adaway"]
 
 This is how and why the following list was created:
 
-[https://thepenguin.eu/download/tp-adblock.txt](https://thepenguin.eu/download/tp-adblock.txt) 
+[http://thepenguin.eu/download/tp-adblock.txt](http://thepenguin.eu/download/tp-adblock.txt) 
 
 Although my initial thought was to keep this list focused on xiaomi urls (I have also included plenty of xiaomi urls found online), I expanded it so that it includes various adiitonal urls that my phone kept communicating with.
 

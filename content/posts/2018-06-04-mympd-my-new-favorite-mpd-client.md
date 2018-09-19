@@ -3,7 +3,7 @@ title = "myMPD - my new favorite MPD client"
 date = "2018-06-04"
 thumbnail = "/img/mympd.jpg"
 categories = ["Audio"]
-tags = ["linux audio", "MPD", "myMPD", "client", "ympd"]
+tags = ["linux audio", "MPD", "myMPD", "ympd"]
 +++
 I hate bloated software. This is the reason I use [Archlinux](https://archlinux.org)  with [i3wm](https://i3wm.org/) or I root my smartphones to remove unneeded applications and this is the exact same reason I chose [ympd](https://github.com/notandy/ympd)  to be the default [MPD](https://www.musicpd.org)  client of [Archphile](http://archphile.org).
 

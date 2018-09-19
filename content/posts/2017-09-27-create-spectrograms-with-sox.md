@@ -1,5 +1,5 @@
 +++
-title = "How to create spectrograms for your audio files using sox"
+title = "How to create spectrograms for audio files using sox"
 date = "2017-09-27"
 thumbnail = "/img/spectro.jpg"
 categories = ["Audio"]

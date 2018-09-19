@@ -1,9 +1,9 @@
-baseurl = "https://thepenguin.eu/"
+baseurl = "http://thepenguin.eu/"
 languageCode = "en-us"
 title = "The Penguin"
 theme = "hugo-xmin"
 googleAnalytics = "UA-107164874-1"
-disqusShortname = "htttp-thepenguin-eu"
+#disqusShortname = "htttp-thepenguin-eu"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
@@ -16,18 +16,19 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "about"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
     name = "categories"
     url = "/categories/"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "tags"
     url = "/tags/"
+    weight = 3
+[[menu.main]]
+    name = "about"
+    url = "/about/"
     weight = 4
+
 
 [params]
     description = "A blog about Linux, Digital Audio, Photography and more..."
-    footer = "Copyleft M.A.  2017 - ∞  [rss](https://thepenguin.eu/index.xml) | [email](emailto:mike@thepenguin.eu)"
+    footer = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) | 2017 - ∞ | [rss](http://thepenguin.eu/index.xml) | [email](emailto:mike@thepenguin.eu)"

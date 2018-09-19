@@ -1,5 +1,5 @@
 +++
-title = "How to properly set up your Sony A6000 camera [videos] (Part II)"
+title = "How to properly set up your Sony A6000 camera (Part II)"
 date = "2017-11-04"
 thumbnail = "/img/a6000.jpg"
 categories = ["Photography"]

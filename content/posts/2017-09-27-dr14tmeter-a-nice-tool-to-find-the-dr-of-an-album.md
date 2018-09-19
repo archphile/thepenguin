@@ -1,5 +1,5 @@
 +++
-title = "DR14 T.meter - A nice tool to find the dynamic range of your music albums"
+title = "DR14 T.meter - A tool to find the dynamic range of your music albums"
 date = "2017-09-27"
 thumbnail = "/img/loudness-war.jpg"
 categories = ["Audio"]
