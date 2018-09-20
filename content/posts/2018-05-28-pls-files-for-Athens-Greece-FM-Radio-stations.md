@@ -27,11 +27,8 @@ For 3, please go away from my blog  immediately or I will use my dark unholy ski
 Its' pretty easy! I have created a very small script that does the job. All you have to do is the following (the first command starts from wget and ends at /arf.sh):
 
 	wget https://raw.githubusercontent.com/archphile/AthensFMRadios/master/archphile-script/arf.sh
-
 	chmod +x arf.sh
-
 	./arf.sh
-
 	mpc update
 
 This script will delete the existing files and download the latest ones from GitHub.

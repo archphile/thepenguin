@@ -61,5 +61,3 @@ After more than two years of use with the cubox-i4, I replaced the board with an
 **Note 1:** Phileserve Github repository is still up (and very outdated) and from time to time I push some configuration changes for files like the smb.conf mainly in order to backup. You never know..
 
 **Note 2:**  Using a NAS along with a powerline is not a very clever idea. During all these years this NAS had noticeable speed performance fluctuations and based on all the tests I did, the usual suspect was always the powerline solution.
-
-[To be continued...]({{ site.baseurl }}{% post_url 2018-05-31-a-poors-man-diy-usb-nas-part-2%})

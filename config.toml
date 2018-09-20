@@ -1,4 +1,5 @@
 baseurl = "http://thepenguin.eu/"
+paginate = 10
 languageCode = "en-us"
 title = "The Penguin"
 theme = "hugo-xmin"
@@ -31,4 +32,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A blog about Linux, Digital Audio, Photography and more..."
-    footer = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) | 2017 - ∞ | [rss](http://thepenguin.eu/index.xml) | [email](emailto:mike@thepenguin.eu)"
+    footer = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) | 2017 - ∞ | [rss](http://thepenguin.eu/index.xml) | [email](mailto:mike@thepenguin.eu)"

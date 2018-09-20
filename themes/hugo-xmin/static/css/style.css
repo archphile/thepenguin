@@ -22,10 +22,16 @@ hr {
   color: #ddd;
 }
 
+/* pagination */
+.pagination { text-align: center; }
+.pagination li { display: inline; }
+.pagination a { padding: 0 .2em; }
+
 /* code */
 pre {
   border: 1px solid #ddd;
-  box-shadow: 5px 5px 5px #eee;
+  box-shadow: 5px 5px 5x #eee;
+  background: #f8f8f8;
   padding: 1em;
   overflow-x: auto;
 }

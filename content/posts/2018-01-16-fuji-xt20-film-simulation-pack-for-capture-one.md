@@ -20,11 +20,13 @@ I have already downloaded the profiles from the link above and renamed the (X-Pr
 
 unzip it and place the files to:
 
+for windows:
+
 	C:\Users\YOURUSERNAME\AppData\Local\CaptureOne\Color Profiles
 
-if you use Windows:
+for Mac os X:
 
 	Macintosh HD/Library/ColorSync/Profiles
 	
-if you use Mac Os X.
+
 
