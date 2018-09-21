@@ -1,4 +1,4 @@
-baseurl = "http://thepenguin.eu/"
+baseurl = "https://thepenguin.eu/"
 paginate = 10
 languageCode = "en-us"
 title = "The Penguin"
