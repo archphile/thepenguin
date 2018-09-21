@@ -18,7 +18,7 @@ During all these years I set up various VPS machines as [Openvpn](https://openvp
 
 For my latest server implementation I chose [Archlinux](https://www.archlinux.org/), so I could not use it anymore. 
 
-After some google searching (I still didn't want to learn how to set it up on my own!), I found the following GitHub project:
+After some google searching, I found the following GitHub project:
 
 [https://github.com/Angristan/OpenVPN-install](https://github.com/Angristan/OpenVPN-install)
 

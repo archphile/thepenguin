@@ -6,7 +6,7 @@ categories = ["General"]
 tags = ["nextcloud", "archlinux", "cloud", "scaleway", "nginx", "vps"]
 +++
 
-After writing this  [post]({{ site.baseurl }}{% post_url 2018-06-06-how-to-use-a-simple-text-based-todo-list-to-get-things-done%}) regarding how I use my **todo.txt** file, I realized that it was time to set up a [Nextloud](https://nextcloud.com/)  server (again) the soonest possible so that I will be aple to stop relying on proprietary services like [Dropbox](https://www.dropbox.com/).
+After writing this  [post]({{ site.baseurl }}{% post_url 2018-06-06-how-to-use-a-simple-text-based-todo-list-to-get-things-done%}) regarding how I use my **todo.txt** file, I realized that it was time to set up a [Nextcloud](https://nextcloud.com/)  server (again) the soonest possible so that I will be aple to stop relying on proprietary services like [Dropbox](https://www.dropbox.com/).
 
 All I needed was:
 

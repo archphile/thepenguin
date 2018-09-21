@@ -24,7 +24,7 @@ Thanks to [Andy Constanza](http://andycostanza.com/) and [Jean Paul Gauche](http
 
  - [Fuji_XTrans_III_dtstyles.zip](https://darktable.fr/download/Fuji_XTrans_III_dtstyles.zip)
  
-  - [Fuji_XTrans_III_dtstyles.zip](/download/Fuji_XTrans_III_dtstyles.zip) *(Alternative Download Link hosted on my website)*
+ - [Fuji_XTrans_III_dtstyles.zip](/download/Fuji_XTrans_III_dtstyles.zip) *(Alternative Download Link hosted on my website)*
 
 
 As per [Stuart's Sowerby](https://blog.sowerby.me) usage notes:
