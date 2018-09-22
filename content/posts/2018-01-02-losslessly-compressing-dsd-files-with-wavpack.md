@@ -6,7 +6,8 @@ categories = ["Audio"]
 tags = ["linux audio", "dsd", "mpd", "wavpack"]
 +++
 
-One of the biggest disadvantages of **DSD** files is their size. Most of the users who like DSD format, keep large [SACD ISOs]({{ site.baseurl }}{% post_url 2017-09-29-how-to-convert-sacd-to-dsf-dff%}) or split them to **dsf/dff** files. In both cases, the result is horrible space-wise as the majority of music albums need more than **1.5GB** (only for the 2 channel files).
+One of the biggest disadvantages of **DSD** files is their size. Most of the users who like DSD format, keep large [SACD ISOs] ({{< ref "2017-09-29-how-to-convert-sacd-to-dsf-dff.md" >}})
+or split them to **dsf/dff** files. In both cases, the result is horrible space-wise as the majority of music albums need more than **1.5GB** (only for the 2 channel files).
 
 It was not long ago that [Wavpack](http://www.wavpack.com) project came with a solution to the above: a **lossless compression algorithm** for dsf/dff files, resulting in up to **60% smaller files**.
 

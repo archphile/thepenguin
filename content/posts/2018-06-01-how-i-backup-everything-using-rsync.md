@@ -6,7 +6,7 @@ categories = ["General"]
 tags = ["backup", "rsync", "nas", "usb disk"]
 +++
 
-Further to my posts ([part I]({{ site.baseurl }}{% post_url 2018-05-30-a-poors-man-diy-usb-nas-part-1%}) and [part II]({{ site.baseurl }}{% post_url 2018-05-31-a-poors-man-diy-usb-nas-part-2%})) about my  diy USB NAS, I am writing this post in order to show you how easy it is to get various backups with [rsync](https://en.wikipedia.org/wiki/Rsync).
+Further to my posts [part I] ({{< ref "2018-05-30-a-poors-man-diy-usb-nas-part-1.md" >}}) and [part II] ({{< ref "2018-05-31-a-poors-man-diy-usb-nas-part-2.md" >}}) about my  diy USB NAS, I am writing this post in order to show you how easy it is to get various backups with [rsync](https://en.wikipedia.org/wiki/Rsync).
 
 But first let me explain you how I store my data:
 

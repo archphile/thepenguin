@@ -6,7 +6,7 @@ categories = ["Photography"]
 tags = ["Fuji", "x-t20", "film", "darktable", "rawtherapee"]
 +++
 
-In my previous [photography post]({{ site.baseurl }}{% post_url 2018-01-16-fuji-xt20-film-simulation-pack-for-capture-one%}), I showed you how to get **Fuji X-T20** film simulations for **Capture One**. In this one I will show you the same but for [Darktable ](https://www.darktable.org/) and [RawTherapee](http://rawtherapee.com/). Please note that all these styles are not only compliant with **X-T20** but they can be used with all **X-TRANS III** cameras.
+In my previous [post about photography] ({{< ref "2018-01-16-fuji-xt20-film-simulation-pack-for-capture-one.md" >}}), I showed you how to get **Fuji X-T20** film simulations for **Capture One**. In this one I will show you the same but for [Darktable ](https://www.darktable.org/) and [RawTherapee](http://rawtherapee.com/). Please note that all these styles are not only compliant with **X-T20** but they can be used with all **X-TRANS III** cameras.
 
 ### RawTherapee
 Thanks to the amazing job by [Stuart Sowerby](https://blog.sowerby.me), our community has now available all currrent Fuji film simulations *(Provia, Velvia, Astia, Classic Chrome, Pro Neg Hi, Pro Neg Std, Acros, Acros + Ye, Acros + R, Acros + G, Mono, Mono + Ye, Mono + R, Mono + G and Sepia)*. If you visit [this link](https://blog.sowerby.me/fuji-film-simulation-profiles/) , you will find various different simulation packages suitable for different Raw editors. For **RawTherapee**, you need to donwload the following package:

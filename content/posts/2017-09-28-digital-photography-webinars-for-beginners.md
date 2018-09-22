@@ -6,7 +6,7 @@ categories = ["Photography"]
 tags = ["photography", "webinar"]
 +++
 
-Being new to the world of digital photography, and after I bought my ["Sony A6000"]({{ site.baseurl }}{% post_url 2017-09-28-how-to-properly-set-up-your-sony-a6000%}), I immediately started looking for webinars in order to learn how to shoot in manual mode. 
+Being new to the world of digital photography, and after I bought my [Sony A6000] ({{< ref "2017-09-28-how-to-properly-set-up-your-sony-a6000.md" >}}), I immediately started looking for webinars in order to learn how to shoot in manual mode. 
 
 Below you will find some suggestions which I believe that can cover all the basic knwoledge needed for a newby to start with photography:
 

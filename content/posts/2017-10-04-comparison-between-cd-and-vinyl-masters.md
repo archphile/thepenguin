@@ -8,7 +8,7 @@ tags = ["cd", "vinyl", "dynamic range"]
 
 Although I am not a big fan of the 70's Rock, there are some albums from this era I love and I always try to find a good CD master  for my digital library.
 
-One of these albums is **Rumours** from **Fleetwood Mac**. Long time ago, I ripped my father's cd with EAC . It's  a US release, for  which unfortunately I don't remember much.  Below  you can  see its dynamic range report  using [DR14 T.meter]({{ site.baseurl }}{% post_url 2017-09-27-dr14tmeter-a-nice-tool-to-find-the-dr-of-an-album%}):
+One of these albums is **Rumours** from **Fleetwood Mac**. Long time ago, I ripped my father's cd with EAC . It's  a US release, for  which unfortunately I don't remember much.  Below  you can  see its dynamic range report  using [DR14 T.meter] ({{< ref "2017-09-27-dr14tmeter-a-nice-tool-to-find-the-dr-of-an-album.md" >}}):
 
 	 ---------------------------------------------------------------------------------------------    
 	 Analyzed: Rumours /  Artist: Fleetwood Mac

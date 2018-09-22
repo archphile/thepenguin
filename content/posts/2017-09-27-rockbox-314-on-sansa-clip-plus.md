@@ -10,7 +10,7 @@ Sansa Clip Plus is one of the most popular portable audio players. Although soun
 
 Rockbox is an alternative firmware that supports various media players. I will not go into details about it, but you should definately give it a try if your device is supported. 
 
-One week ago, I visited [rockbox website](https://www.rockbox.org/) and I saw that after many years there was [a new version ](https://www.rockbox.org/wiki/ReleaseNotes314)  (3.14) available. Having a look at the changelog, I noticed something very interesting:
+One week ago, I visited [rockbox website](https://www.rockbox.org/) and I saw that after many years there was [a new version ](https://www.rockbox.org/wiki/ReleaseNotes314) (3.14) available. Having a look at the changelog, I noticed something very interesting:
 
 > - Battery life on AMS v2 devices (Sansa Clip v2, Clip+, Clip Zip, and Fuze v2) is approximately doubled
 

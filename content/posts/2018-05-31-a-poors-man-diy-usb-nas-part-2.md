@@ -6,7 +6,7 @@ categories = ["General"]
 tags = ["nas", "usb disk", "samba", "ddwrt", "Netgear R7000"]
 +++
 
-As mentioned in my [previous post]({{ site.baseurl }}{% post_url 2018-05-30-a-poors-man-diy-usb-nas-part-1%}), during the summer of 2017 I decided that it was time to replace my first diy USB NAS. 
+As mentioned in my [previous post] ({{< ref "2018-05-30-a-poors-man-diy-usb-nas-part-1.md" >}}), during the summer of 2017 I decided that it was time to replace my first diy USB NAS. 
 
 I had already bought a **Netgear R7000**  to use it with [DD-WRT](https://dd-wrt.com/) that supported USB 3 disk sharing via [samba](https://www.samba.org/), I had a lot of embedded boards running at home for various tasks and I wanted to get rid some of them and the most important, I needed more space as I wanted to use the NAS for other tasks apart from serving my music files.
 

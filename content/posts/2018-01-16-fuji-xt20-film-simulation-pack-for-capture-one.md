@@ -6,7 +6,7 @@ categories = ["Photography"]
 tags = ["Fuji", "x-t20", "film", "capture one"]
 +++
 
-My journey in digital photograpy started 5 months ago when I bought a [Sony A6000]({{ site.baseurl }}{% post_url 2017-09-28-how-to-properly-set-up-your-sony-a6000%}). After a lot of searching online trying to find the best Linux RAW editors, I ended up starting learning how to use [Darktable](https://www.darktable.org/)  and [Raw Therapee](http://rawtherapee.com/).
+My journey in digital photograpy started 5 months ago when I bought a [Sony A6000] ({{< ref "2017-09-28-how-to-properly-set-up-your-sony-a6000.md" >}}). After a lot of searching online trying to find the best Linux RAW editors, I ended up starting learning how to use [Darktable](https://www.darktable.org/)  and [Raw Therapee](http://rawtherapee.com/).
 
 5 months later, two major changes happened: I sold my Sony System ( the A6000 with the kit plus another 3 lenses) for a [Fuji X-T20](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t20/specifications/) and I installed Windows (using a **KVM** virtual machine with **PCI passthrough** - I will write about it on a separate article) for the first time after many years in order to be able to try some famous RAW editing Windows software. 
 
