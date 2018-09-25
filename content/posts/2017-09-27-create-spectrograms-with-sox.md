@@ -45,4 +45,4 @@ Below you can see a sample of the final image, showing the spectrogram of a redb
 
 
 
-![dr14 T.meter](/img/spectro-sox.jpg){:class="img-responsive"}
+![dr14 T.meter](/img/spectro-sox.jpg)"}
