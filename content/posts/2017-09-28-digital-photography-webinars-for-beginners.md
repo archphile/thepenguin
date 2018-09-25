@@ -10,14 +10,14 @@ Being new to the world of digital photography, and after I bought my [Sony A6000
 
 Below you will find some suggestions which I believe that can cover all the basic knwoledge needed for a newby to start with photography:
 
-### "Photography": Ditch Auto - Start Shooting in Manual
+### Photography: Ditch Auto - Start Shooting in Manual
 
 url: [https://www.udemy.com/ditch-auto-start-shooting-in-manual/](https://www.udemy.com/ditch-auto-start-shooting-in-manual/) 
 
 This is a free Udemy webinar that covers most of the basic stuff needed. I haven't watched the whole set of videos, but only a selection (mainly covering the basics of exposure) and I can't express an accurate opinion. However, it's almost the only free webinar online and this is the reason it's included in this list.
 
 
-### "Photography" Masterclass: Your Complete Guide to "Photography"
+### Photography Masterclass: Your Complete Guide to Photography
 
 url: [https://www.udemy.com/photography-masterclass-your-complete-guide-to-photography/](https://www.udemy.com/photography-masterclass-your-complete-guide-to-photography/) 
 
@@ -25,7 +25,7 @@ This is another Udemy webinar. It's current cost is 12€. It was the first webi
 However I believe that it's the best of this list for someone that has no idea on what digital photography means.
 
 
-### Phlearn - "Photography" 101
+### Phlearn - Photography 101
 
 url: [https://phlearn.com/tutorial/photography-101/](https://phlearn.com/tutorial/photography-101/) 
 

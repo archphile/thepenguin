@@ -8,7 +8,7 @@ tags = ["pi-hole", "odroid c1+","adblock"]
 
 After dropping **Odoid C1+** support in [Archphile](http://archphile.org), I had this board available and ready for a new project.
 
-For more than a year, I used [privoxy](https://www.privoxy.org/) on a ["Netgear R7000"](https://www.netgear.com/home/products/networking/wifi-routers/R7000.aspx) router with [DD-WRT](https://dd-wrt.com/) as my main ad-blocker, but I wanted something easier and more configurable for a daily driver.
+For more than a year, I used [privoxy](https://www.privoxy.org/) on a [Netgear R7000](https://www.netgear.com/home/products/networking/wifi-routers/R7000.aspx) router with [DD-WRT](https://dd-wrt.com/) as my main ad-blocker, but I wanted something easier and more configurable for a daily driver.
 
 This is why I decided to install [pi-hole](https://pi-hole.net/) pi-hole on the Odroid C1+.
 

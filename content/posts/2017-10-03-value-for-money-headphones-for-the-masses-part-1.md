@@ -10,7 +10,7 @@ One year ago I decided that I needed an upgrade on my headphones (Sony MH-1), so
 
 Having spent a noticeable amount of money for these in-ear monitors, I could not spend again a similar amount, so I decided to experiment with cheap Asian headphones, hoping to find my vfm.
 
-After many visits on ["Audio"budget](https://audiobudget.com/) and after having read various forum topics on [Avclub](http://avclub.gr) head-fi subsection , I started ordering headphones based on their suggestions. Below you will find some short reviews on what I have tested so far:
+After many visits on [Audiobudget](https://audiobudget.com/) and after having read various forum topics on [Avclub](http://avclub.gr) head-fi subsection , I started ordering headphones based on their suggestions. Below you will find some short reviews on what I have tested so far:
 
 - [KZ-ATE](https://audiobudget.com/product/KZ/ATE) 
 
@@ -39,4 +39,4 @@ Soundwise, these headphones focuse in mids, and sometimes I would like to have  
 
 To sum up, the Monks are not the perfect headphones for sure. However I find them  a very comfortable and I really enjoy listening with them. The most important for me was that they made me start looking for other earbuds as I realized that a good sound stage was the most important part of the experience I was looking for.
 
-As a result I ordered a pair of **TY Hi-Z** and **MusicMaker TP16** from [Penon "Audio"](https://penonaudio.com). I will come back with the second part of this post after I receive and test them!
+As a result I ordered a pair of **TY Hi-Z** and **MusicMaker TP16** from [Penon Audio](https://penonaudio.com). I will come back with the second part of this post after I receive and test them!

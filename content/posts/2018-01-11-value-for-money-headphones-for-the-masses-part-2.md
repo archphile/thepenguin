@@ -6,7 +6,7 @@ categories = ["Audio"]
 tags = ["headphones", "earbuds"]
 +++
 
-Two months ago I wrote [this article] ({{< ref "2017-10-03-value-for-money-headphones-for-the-masses-part-1.md" >}})regarding all the **value for money** IEM and earbud headphones I had at that time. Enjoying my **VE Monk Plus** made me want to try more vfm **earbuds** and below you will find a small list of some more I bought and tested so far.
+Two months ago I wrote [this article] ({{< ref "2017-10-03-value-for-money-headphones-for-the-masses-part-1.md" >}}) regarding all the **value for money** IEM and earbud headphones I had at that time. Enjoying my **VE Monk Plus** made me want to try more vfm **earbuds** and below you will find a small list of some more I bought and tested so far.
 
 ![Earbuds Penonaudio](/img/earbuds_penonaudio.jpg  "Earbuds")
 
