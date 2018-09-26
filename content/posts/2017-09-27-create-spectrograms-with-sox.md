@@ -37,7 +37,7 @@ Now, lets see a quicker procedure in order to create a set of spectrograms for t
 	rm /spectrograms/*.png
 
 This script must be run within the album directory. It creates a directory named **spectrograms**  and places the **.png** files inside. Then, **mogrify** converts the png to  
-much smaller **.jgp** images and finally the un-needed png files get deleted.Now we have a directory that includes all spectrograms for our files while it's size is really 
+much smaller **.jpg** images and finally the un-needed png files get deleted.Now we have a directory that includes all spectrograms for our files while it's size is really 
 small and we can keep the spectros for all our music library.
 
 Below you can see a sample of the final image, showing the spectrogram of a redbook (16/44.1) flac:
@@ -45,4 +45,4 @@ Below you can see a sample of the final image, showing the spectrogram of a redb
 
 
 
-![dr14 T.meter](/img/spectro-sox.jpg)"}
+![dr14 T.meter](/img/spectro-sox.jpg)
