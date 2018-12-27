@@ -37,14 +37,19 @@ To cut the long story short, I decided again to proceed with the usual step and 
 
 I have to admit that I did not expect that deleting my social media accounts (apart from **Linkdedin** which I am still obliged to have and occasionaly use for business reasons) to change my life so drastically.
 
-The first days without all these apps on my smartphone were really strange. I kept opening the screen on my smartphone realizing that I could not lose by infinitely scrolling my **Facebook** or **Twitter** feed. So, I decided to **replace an old habit with a new one** and **I started reading** electronic books. After 2 months of almost being addicted to reading, I bought a **Kindle**. After all these months, I only use my smartphone when needed (and mainly for my **GTD** system).
+The first days without all these apps on my smartphone I felt really funny. I kept opening the screen of my smartphone realizing that I could not spend my time by infinitely scrolling my **Facebook** or **Twitter** feed. So, I decided to **replace an old habit with a new one** and **I started reading** electronic books. After 2 months of almost being addicted to reading, I bought a **Kindle**. After all these months, I only use my smartphone when needed (and mainly for my **GTD** system).
 
 Regarding all the information that is not served on my feeds, I now visit all the pages I want (news, entertainment etc.) **whenever I want**. 
+
+Not being continuously bombarded with low-quality content makes me feel much calmer and focusing to what is really important in REAL life.
 
 In addition to that, I started using **Reddit**. Although I don't consider it a social medium, **Reddit** can be as harmful (it has their own implementation of like named "karma") as all these other services above, but being more like a **multi-forum** platform, if you use it right it can be a very valuable resource of knowledge. Some subreddits I follow are r/minimalism, r/anticonsumption, r/socialmediasceptisicm, r/gtd, r/photography, r/buddhism etc.
 
 In order to publish my photos, I used **Flickr** for a while, but I decided to create my own site for this reason, so I deleted **Flickr** too.
 
-What is really important is that **I feel that I escaped from dystopia**. I miss **nothing** from my old social media days. I keep having communication with all the people I want and the most important is that **I spend far less time on my smartphone** and online in general. This last behavior change was big **life changer**, but let's talk about it on a separate post!
+I keep having communication with all the people I want and the most important is that **I spend far less time on my smartphone** and online in general. This last behavior change was big **life changer**, but let's talk about it on a separate post!
 
+What is really important is that **I feel that I escaped from dystopia**. I miss **nothing** from my old social media days.
+
+Social media are addictive on purpose; they were created to be this way. And living with a an addiction less can only make life better.
 
