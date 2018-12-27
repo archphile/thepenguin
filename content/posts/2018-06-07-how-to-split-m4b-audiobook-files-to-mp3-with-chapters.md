@@ -20,7 +20,7 @@ Now, let's assume that you have a file named **audiobook.m4b** and you want to s
 
 	php m4b-tool.phar split --audio-format mp3 --audio-bitrate 96k --audio-channels 1 --audio-samplerate 44100 /path/to/audiobook.m4b
 	
-The resulting **mp3 files** will be placed under a new directory named **audiobook_splitted**, on the same location with the **.m4b **file, while each file name will be based on the following template:
+The resulting **mp3 files** will be placed under a new directory named **audiobook_splitted**, on the same location with the **.m4b ** file, while each file name will be based on the following template:
 
 	<chapter>-<chapter title>.mp3
 	

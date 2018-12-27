@@ -14,7 +14,7 @@ I have spent most of my time learning **Lightroom** and [Capture One](https://ww
 
 Unfortunately, **Capture One** doesn't currently offer any film simulation profile (like Lightroom does) for **Fuji X** series cameras. However, thanks to [fleckintosh](http://www.fuji-x-forum.com/topic/3772-capture-one-pro-9-film-simulations-incl-acros/) and **Scottie Wang** we are now able to use some of the most popular **fuji film simulations**.
 
-I have already downloaded the profiles from the link above and renamed the (X-Pro2)files accordingly in order to match **X-T20** camera. All you need to do is to download the following file:
+I have already downloaded the profiles from the link above and renamed the (X-Pro2) files accordingly in order to match **X-T20** camera. All you need to do is to download the following file:
 
 - [fuji-xt20-film-simulation-pack-C1.zip](/download/fuji-xt20-film-simulation-pack-C1.zip)
 

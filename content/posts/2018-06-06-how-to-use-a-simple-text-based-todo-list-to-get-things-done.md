@@ -3,7 +3,7 @@ title = "How to use a simple text based to-do list to get things done"
 date = "2018-06-06"
 thumbnail = "/img/todotxt.jpg"
 categories = ["General"]
-tags = ["todotxt", "dropbox", "simpletask", "todotxt-machine", "gtd"]
+tags = ["todotxt", "dropbox", "simpletask", "qtodotxt", "todotxt-machine", "gtd"]
 +++
 
 After testing almost every available tool in order to create and maintain my to-do lists, I decided I needed something that followed the **k.i.s.s.** software philosophy and this is the reason I started using [Taskwarrior](https://taskwarrior.org/).

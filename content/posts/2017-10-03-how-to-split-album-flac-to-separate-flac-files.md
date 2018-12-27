@@ -13,7 +13,7 @@ The linux tool needed for this task is called [shntool](http://www.etree.org/shn
 
 The command you need to give in order to get the separate files is:
 
-	shntool -f blabla.cue blabla,flac
+	shnsplit -f blabla.cue blabla.flac
 
 where blabla.flac is the album **.flac** and blabla.cue its .**cue** file.
 
@@ -72,4 +72,5 @@ and it's obvious that using [CUETools](http://cue.tools/wiki/CUETools_Download) 
 So, what did I do here? I proved that under all procedures, the resulting wav files were in fact the same files. What is different when using shntool, or foobar or CUETools, is the flac compression level (and please don't start with the affect that flac compression level has in sound in 2017!).
 
 What is very funny, is that even after I presented the above results to this forum, I got replies like *"yes, but I can still hear a difference comparing the split files between foobar and Cuetools"*.. And then I realized how hard is to win an audiophile. Damn, they always win!
+
 

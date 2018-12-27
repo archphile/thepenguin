@@ -1,0 +1,50 @@
++++
+title = "Getting your life back, Part I - Social Media"
+date =  "2018-12-27"
+categories = ["General"]
+tags = ["social media"]
++++
+
+## Instagram
+
+Back in late 2017, during my first walks out as a completely new photographer, I had decided that whenever I found something really interesting, I would immediately transfer it from my camera to my smartphone and publish it on **Instagram**.
+
+Some of my photos were really successful, while others did not get the "likes" I believed they would. That was the first time I cought myself wanting to delete content that my (few) followers - mainly friends of mine - did not like.
+
+This was **a really sad realization** for me: although I was an amateur photographer, my creativity was "getting instructions" from my followers. Instead of learning how to shoot right and **make art** through photography, I had decided that approval from my followers was far important for me.
+
+
+So in June of 2018, I decided that **Instagram** was harming the first real effort in my life on being creative and had to be removed from my daily habits. As a result, my **Instagram** account was the first one to delete (after I had deleted all my content). 
+
+## Twitter
+
+This decision had a deep impact on me, so I started wondering what was the actual reason I had a **Twitter** account. I always told myself that I used **Twitter** in order to get informed about what is happening in the world, but that was a lie. The reason I used twitter was **in order to tweet**, to express my opinion (that nobody should give a fuck about) about everything, being forced from the maximum of the 140 characters to write in a "smartypants" way **and get retweets**.
+
+I started reading all my past tweets and I felt sad. That was not me, but an impersonation of myself **seeking the dopamine that comes after a retweet**. Initially I decided to delete all my tweets and stay there only to follow accounts from news agencies etc., but I knew it was not enough. As a result I deleted my **Twitter** account.
+
+## Facebook
+
+My last remaining account was that of **Facebook**. Although I had lost my interest on Facebook long ago, I kept using it whenever I felt bored during the day, sometimes resulting in heavy use. In addition to that **Facebook Messenger** has become one of the most popular means of communication, and although I really did not like it at all (I had major privacy concerns), I kept using it because it was the easiest way to chat with almost everyone I know. However, as my sceptisism about social media was massively increasing, started considering deleting my account. I decided to do the same with **Twitter**, so I started to read my content from the past.
+
+I was a member of **Facebook**. For more than nine years, so reading posts of my 10 years younger self was a mixutre of sad and funny feelings. One thing was for sure: that guy wasn't me and all these postings were 100% irrelevant to my current self. Apart from that, I started thinking of my past **Facebook** use. I remembered times I decided to delete content that got less likes than expected, or times I felt really nice because of a successful post. One word came again to mind: **dopamine**.
+
+The days passed and I still hadn't decided what to do with this account, always telling to myself that not having a **Facebook**  account would stop communication with peopke I cared about. And then I asked myself "how many people will you lose if you stop using facebook?". The reply was "ONE". So, I contacted this very old friend of mine, I informed her that she could not longer reach me over **Facebook** and apart from phone calls, she could either use Viber or Whatsapp to chat with me.
+
+To cut the long story short, I decided again to proceed with the usual step and I deleted my **Facebook** account along with my **Facebook messenger** one.
+
+
+## Living without social media
+
+I have to admit that I did not expect that deleting my social media accounts (apart from **Linkdedin** which I am still obliged to have and occasionaly use for business reasons) to change my life so drastically.
+
+The first days without all these apps on my smartphone were really strange. I kept opening the screen on my smartphone realizing that I could not lose by infinitely scrolling my **Facebook** or **Twitter** feed. So, I decided to **replace an old habit with a new one** and **I started reading** electronic books. After 2 months of almost being addicted to reading, I bought a **Kindle**. After all these months, I only use my smartphone when needed (and mainly for my **GTD** system).
+
+Regarding all the information that is not served on my feeds, I now visit all the pages I want (news, entertainment etc.) **whenever I want**. 
+
+In addition to that, I started using **Reddit**. Although I don't consider it a social medium, **Reddit** can be as harmful (it has their own implementation of like named "karma") as all these other services above, but being more like a **multi-forum** platform, if you use it right it can be a very valuable resource of knowledge. Some subreddits I follow are r/minimalism, r/anticonsumption, r/socialmediasceptisicm, r/gtd, r/photography, r/buddhism etc.
+
+In order to publish my photos, I used **Flickr** for a while, but I decided to create my own site for this reason, so I deleted **Flickr** too.
+
+What is really important is that **I feel that I escaped from dystopia**. I miss **nothing** from my old social media days. I keep having communication with all the people I want and the most important is that **I spend far less time on my smartphone** and online in general. This last behavior change was big **life changer**, but let's talk about it on a separate post!
+
+
