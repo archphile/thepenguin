@@ -1,5 +1,5 @@
 +++
-title = "Getting your life back, Part I - Social Media"
+title = "Getting my life back, Part I - Social Media"
 date =  "2018-12-27"
 categories = ["General"]
 tags = ["social media"]
@@ -9,7 +9,7 @@ tags = ["social media"]
 
 Back in late 2017, during my first walks out as a completely new photographer, I had decided that whenever I found something really interesting, I would immediately transfer it from my camera to my smartphone and publish it on **Instagram**.
 
-Some of my photos were really successful, while others did not get the "likes" I believed they would. That was the first time I cought myself wanting to delete content that my (few) followers - mainly friends of mine - did not like.
+Some of my photos were really successful, while others did not get the "likes" I believed they would. That was the first time I caught myself wanting to delete content that my (few) followers - mainly friends of mine - did not like.
 
 This was **a really sad realization** for me: although I was an amateur photographer, my creativity was "getting instructions" from my followers. Instead of learning how to shoot right and **make art** through photography, I had decided that approval from my followers was far important for me.
 
