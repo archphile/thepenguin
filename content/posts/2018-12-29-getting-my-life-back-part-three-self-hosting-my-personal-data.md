@@ -1,0 +1,108 @@
++++
+title = "Getting my life back, Part III - Self-hosting my personal data (tasks, notes, calendar, bookmarks, contacts, passwords)"
+date =  "2018-12-29"
+categories = ["General"]
+tags = ["contact management, password management, calendar, Nextcloud, GTD, Simpletask, Notes, Keepass2android, DAVdroid,"]
++++
+
+This third part of the series "Getting my life back", is about **personal data privacy**. Although it's a huge topic, I will just try to give some further details on how I manage my own personal data, after of course having already [got rid of my social media accounts]({{< ref "2018-12-27-getting-my-life-back-part-one-social-media.md" >}}), one of the most dangerous personal privacy leaks.
+
+
+## Before you proceed with this post
+
+In previous posts I have already mentioned how use my own cloud with [Nextcloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}}).
+
+I have also written two posts on **GTD**, one [providing information]({{< ref "2018-06-06-how-to-use-a-simple-text-based-todo-list-to-get-things-done.md" >}}) about [Todo.txt](http://todotxt.org/) and a second one describing [how exactly I GTD]({{< ref "2018-09-26-how-i-GTD.md" >}}).
+
+I suggest you to at least have a look at these articles in order to understand the context of this post.
+
+<br>
+## Android Contacts
+
+For my contacts on Android, I used to sync to my Gmail account for years. After setting up [Nextcloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}}), I decided to self-host them. For this reason I now use:
+
+- [Nextcloud Contacts](https://github.com/nextcloud/contacts#readme) to which I imported/edited/etc my exported Gmail contacts
+- [DAVDroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) to sync contacts between my Android Smartphone and my [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
+
+
+<br>
+## Bookmarks
+
+For bookmark syncing I use:
+
+- [Nextcloud Bookmarks](https://github.com/nextcloud/bookmarks)
+
+along with
+
+- [Nextcloud Bookmarks for Android](https://f-droid.org/en/packages/org.schabi.nxbookmarks/)
+
+and
+
+- [Floccus addon](https://addons.mozilla.org/el/firefox/addon/floccus/) for Firefox.
+
+
+For the record, I don't sync all my bookmarks. I just use the above combo to create a "shared folder" of bookmakrs between my Desktop PC and the smartphone.
+
+
+<br>
+## Password Management
+
+For passwords I use:
+
+- [KeePassXC](https://keepassxc.org/),  with the database stored on a Nextcloud folder, automatically synced with [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
+
+- [Keepass2Android](https://github.com/PhilippC/keepass2android) on my smartphone which accessess the same database stored on the [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
+
+
+<br>
+## Calendar
+
+For this purpose I use:
+
+- [Nextcloud Calendar](https://github.com/nextcloud/calendar/)
+
+along with 
+
+- [DAVDroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) to sync the calendar between my Android Smartphone and my [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
+
+and
+
+- [Simple Calndar Pro](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) to manage the synced calendar on the smartphone
+
+
+<br>
+## Note Keeping
+
+Note keeping is a very important part of my [GTD system]({{< ref "2018-09-26-how-i-GTD.md" >}}). For this purpose I use:
+
+- [QOwnNotes](https://www.qownnotes.org/) on my desktop PC, with the notes (.txt files) stored on a Nextcloud folder, automatically synced with the [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
+
+- [Notes](https://github.com/nextcloud/notes) for Nextcloud
+
+along with
+
+- [Notes] (https://f-droid.org/en/packages/it.niedermann.owncloud.notes/) for Android
+
+
+<br>
+## Tasks
+
+For my **GTD** system I use:
+
+- [Qtodotxt](http://qtodotxt.org/) on my desktop PC, reading **todo.txt** and **done.txt** from a Nextcloud folder automatically synced with the [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
+
+- [Simpletask for Nextcloud](https://github.com/mpcjanssen/simpletask-android) on my smartphone
+
+**Note:** Please refer to **"Before you proceed with this post"** section of this article for further information about this section.
+
+
+<br>
+## Conclusion
+
+It's obvious that having my own cloud infrastructure made the transition to self-hosting all my personal data a very easy task. 
+
+This way I ensure (as much as I can) that no third party will have access on the people I know, services I use, stuff I do etc.
+
+However, it doesn't mean that self-hosting this information provides better security. 
+
+A Nextcloud server requires a linux machine with various services running on it and one **should take care of its configuration** to make it as secure as possible.

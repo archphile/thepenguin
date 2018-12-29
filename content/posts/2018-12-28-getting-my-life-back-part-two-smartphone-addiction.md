@@ -26,16 +26,19 @@ During all these years of android use, I had ended up with a set of applications
 
 This time I decided to keep only what is really needed for my everyday use, focusing in productivity.
 
-As a result I **got rid more than 20 apps** (games, web radio apps, new apps etc) I rarely used but were there for when I needed to get distracted.
+As a result I **got rid more than 20 apps** (games, web radio apps, news apps etc) I rarely used but were there for when I needed to get distracted.
 
 
 ## Re-organizing the Desktop
 
 My last Desktop setup included an 6x7 grid full of all the apps (plus folders with additional apps) I though I needed to have immediate access when I open the phone.
 
-I decided to get rid of everything and re-organize my desktop. The result is:
+I decided to get rid of everything and to re-organize my desktop (based on Nova Launcher). The result is:
 
+- a simply black wallpaper (as usually)
+- No dock
 - 2 lines with apps and folders
+- one of these folders containing the majority of apps I use.
 - 2 [Simpletask](https://github.com/mpcjanssen/simpletask-android) widgets for my [GTD]({{< ref "2018-09-26-how-i-GTD.md" >}}): one shows tasks with priorities (A and B) and the other shows tasks with a due date
 - 2 widgets from [Notes](https://github.com/stefan-niedermann/nextcloud-notes), a [Nextcloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux.md" >}}) app I use for all my .txt lists, notes, journal etc..
 
@@ -43,11 +46,11 @@ It might sound bloated but it isn't. It's a **100% [GTD]({{< ref "2018-09-26-how
 
 ## Protecting the Eyes
 
-In order to protect my eyes, I have "reading node" always on. In addition to that, I very frequently use the phone in **greyscale mode** (I enable it very easily with [Monochromatic](https://f-droid.org/en/packages/uk.co.richyhbm.monochromatic/)).
+In order to protect my eyes, I have "reading node" always on. In addition to that, I very frequently use the phone in **greyscale mode** (I enable it very easily with [Monochromatic](https://f-droid.org/en/packages/uk.co.richyhbm.monochromatic/)). This last "tweak", in addition to the protection, it makes the screen far less attractive so that it's difficult to stick the eyes on the phone unintentionally.
 
 ## Dealing with the Addiction
 
-Everything that I mentioned until now, it's OK but not enough to deal with the smartphone addiction.
+Everything that I mentioned until now, is OK but not enough to deal with the smartphone addiction.
 
 Being a father of an 8 months kid, my motivation to deal with this addiction was big:
 
@@ -72,9 +75,9 @@ In addition to that I set two rules:
 As already mentioned in the [social media]({{< ref "2018-12-27-getting-my-life-back-part-one-social-media.md" >}}) post, I decided to buy a Kindle.  Whenever I have some free time, instead of using the smartphone (or my desktop PC), I get the kindle and I start immediately reading. Since June I have read more than 10 books. 
 
 
-### Using a Dumb Phone
+### Using a Dumbphone
 
-Being a very active runner lately, I decided to start running without my smartphone, as I wanted to get more focused on my exercise. However I needed a phone with me, so I decided to buy the cheapest (I spent 20 euro for that) and smallest phone (without internet connectivity ) I could find.
+Being a very active runner lately, I decided to start running without my smartphone, as I wanted to get more focused on my exercise. However I needed a phone with me, so I decided to buy the cheapest (I spent 20 euro for that) and smallest phone (Nokia 105 Dual Sim) I could find.
 
 I got a second SIM with the same number from my carrier and started using it only when I was out running.
 
@@ -89,18 +92,18 @@ Not having social media, going out with friends/family with a dumb phone etc. al
 
 - Not to "advertise" or discuss about my new habits if I am not asked. I am not a hipster and I don't follow any trend. I am just a guy struggling with first-world addictions.
 
-- Not to take what others say seriously. Some of them say I am a "Luddite", others say I am a victim of the ""Minimalism" trend. I just don't care about anything I hear about my "new" self.
+- Not to take what others say seriously. Some of them say I am a **"Luddite"** or a **victim of the ""Minimalism" trend**, others say I am **simply obsessive**. I just don't care about anything I hear about my "new self" (if we can call this a self - but that's a Bhuddist topic to be analyzed on another post :P).
 
 
 ## Conclusion
 
 Smartphone addiction is a very serious problem as it affects our whole life.
 
-In this post I chose not to refer statistics. I just wanted to share my story, hoping that it will help others by giving them inspiration and ideas.
+In this post I chose not to refer to any statistics. I just wanted to share my story, hoping that it will help others by giving them inspiration and ideas.
 
-It's easy to do a research online and see yourself how social media along with smartphones are associated with **anxiety**, **depression** and several other mental disorders, especially for people with ages of 18-23. Even worse, you can just go out **anywhere you want** (to the mall, to a bar, a restaruant etc..) and see the people around you. Everyone uses their smartphone avoiding communication with others.
+It's easy to do a research online and see yourself how social media along with smartphones are associated with **anxiety**, **depression** and several other mental disorders, especially for the age group of 18-23. Even better (or worse...), you can just go out **anywhere you want** (to the mall, to a bar, a restaruant etc..) and see the people around you. Everyone uses their smartphone avoiding communication with others.
 
-Escaping from dystopia is not an easy task, but at least let's give it a try together. 
+Escaping from dystopia is not an easy task, but at least let's give it a try together.
 
 
 

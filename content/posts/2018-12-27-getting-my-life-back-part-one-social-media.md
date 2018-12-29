@@ -41,9 +41,9 @@ The first days without all these apps on my smartphone I felt really funny. I ke
 
 Regarding all the information that is not served on my feeds, I now visit all the pages I want (news, entertainment etc.) **whenever I want**. 
 
-Not being continuously bombarded with low-quality content makes me feel much calmer and focusing to what is really important in REAL life.
+Not being continuously bombarded with low-quality content makes me feel much calmer and focusing to what is really important in REAL life. 
 
-In addition to that, I started using **Reddit**. Although I don't consider it a social medium, **Reddit** can be as harmful (it has their own implementation of like named "karma") as all these other services above, but being more like a **multi-forum** platform, if you use it right it can be a very valuable resource of knowledge. Some subreddits I follow are r/minimalism, r/anticonsumption, r/socialmediasceptisicm, r/gtd, r/photography, r/buddhism etc.
+In addition to that, I started using **Reddit**. Although I don't consider it a social medium, **Reddit** can be as harmful (it has their own implementation of like named "karma") as all these other services above, but being more like a **multi-forum** platform, if you use it right it can be a very valuable resource of knowledge. Some subreddits I follow are r/simpleliving, r/minimalism, r/Anticonsumption, r/socialmediasceptisicm, r/digitalminimalism, r/gtd, r/photography, r/Buddhism etc.
 
 In order to publish my photos, I used **Flickr** for a while, but I decided to create my own site for this reason, so I deleted **Flickr** too.
 
