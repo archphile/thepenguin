@@ -35,7 +35,7 @@ To cut the long story short, I decided again to proceed with the usual step and 
 
 ## Living without social media
 
-I have to admit that I did not expect that deleting my social media accounts (apart from **Linkdedin** which I am still obliged to have and occasionaly use for business reasons) to change my life so drastically.
+I have to admit that I did not expect that deleting my social media accounts (apart from **Linkedin** which I am still obliged to have and occasionaly use for business reasons) to change my life so drastically.
 
 The first days without all these apps on my smartphone I felt really funny. I kept opening the screen of my smartphone realizing that I could not spend my time by infinitely scrolling my **Facebook** or **Twitter** feed. So, I decided to **replace an old habit with a new one** and **I started reading** electronic books. After 2 months of almost being addicted to reading, I bought a **Kindle**. After all these months, I only use my smartphone when needed (and mainly for my **GTD** system).
 
@@ -53,3 +53,11 @@ What is really important is that **I feel that I escaped from dystopia**. I miss
 
 Social media are addictive on purpose; they were created to be this way. And living with a an addiction less can only make life better.
 
+
+## Useful links
+
+- [How social media ruins your life](https://www.youtube.com/watch?v=kc_Jq42Og7Q)
+
+- [10 reasons to get off social media](https://www.youtube.com/watch?v=BCTlcj5vImk)
+
+- [The true toxicity of social media](https://www.youtube.com/watch?v=dmXcjvL9VSc)

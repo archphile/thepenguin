@@ -1,11 +1,15 @@
 +++
-title = "Getting my life back, Part III - Self-hosting my personal data (tasks, notes, calendar, bookmarks, contacts, passwords)"
+title = "Getting my life back, Part III - Self-hosting my personal data (contacts, bookmarks, passwords, calendar, notes, tasks)"
 date =  "2018-12-29"
 categories = ["General"]
 tags = ["contact management, password management, calendar, Nextcloud, GTD, Simpletask, Notes, Keepass2android, DAVdroid,"]
 +++
 
 This third part of the series "Getting my life back", is about **personal data privacy**. Although it's a huge topic, I will just try to give some further details on how I manage my own personal data, after of course having already [got rid of my social media accounts]({{< ref "2018-12-27-getting-my-life-back-part-one-social-media.md" >}}), one of the most dangerous personal privacy leaks.
+
+In addition to that, on my previous post about [smartphone addiction]({{< ref "2018-12-28-getting-my-life-back-part-two-smartphone-addiction.md" >}}), I mentioned that my smartphone now serves me only as a means for better productivity. In this guide, you will find out how!
+
+1) **Note:** Whenever the term **"productivity"** is used in this blog, this **doesn't mean** becoming a better employee, manager, businessman etc.. By seeing things from a different perspective, productivity is a ""tool" (to be more specific, a procedure with the use of a efficient toolset) that assists one to finish with all the usual responsibilities (including ones job) the soonest possible - using special tools and techniques - and have as much time as possible for everything else (hobbies, art, knowledge, quality time with family and friends etc.).
 
 
 ## Before you proceed with this post
@@ -17,12 +21,12 @@ I have also written two posts on **GTD**, one [providing information]({{< ref "2
 I suggest you to at least have a look at these articles in order to understand the context of this post.
 
 <br>
-## Android Contacts
+## Contacts
 
-For my contacts on Android, I used to sync to my Gmail account for years. After setting up [Nextcloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}}), I decided to self-host them. For this reason I now use:
+For my contacts on Android, I used to sync using Google Contacts for years. After setting up [Nextcloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}}), I decided to stop letting Google know who I know and self-host them. For this reason I now use:
 
 - [Nextcloud Contacts](https://github.com/nextcloud/contacts#readme) to which I imported/edited/etc my exported Gmail contacts
-- [DAVDroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) to sync contacts between my Android Smartphone and my [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
+- [DAVx⁵](https://f-droid.org/en/packages/at.bitfire.davdroid/) to sync contacts between my Android Smartphone and my [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
 
 
 <br>
@@ -63,7 +67,7 @@ For this purpose I use:
 
 along with 
 
-- [DAVDroid](https://f-droid.org/en/packages/at.bitfire.davdroid/) to sync the calendar between my Android Smartphone and my [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
+- [DAVx⁵](https://f-droid.org/en/packages/at.bitfire.davdroid/) to sync the calendar between my Android Smartphone and my [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
 
 and
 

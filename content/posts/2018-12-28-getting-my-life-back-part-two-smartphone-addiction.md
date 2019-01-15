@@ -42,7 +42,12 @@ I decided to get rid of everything and to re-organize my desktop (based on Nova 
 - 2 [Simpletask](https://github.com/mpcjanssen/simpletask-android) widgets for my [GTD]({{< ref "2018-09-26-how-i-GTD.md" >}}): one shows tasks with priorities (A and B) and the other shows tasks with a due date
 - 2 widgets from [Notes](https://github.com/stefan-niedermann/nextcloud-notes), a [Nextcloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux.md" >}}) app I use for all my .txt lists, notes, journal etc..
 
-It might sound bloated but it isn't. It's a **100% [GTD]({{< ref "2018-09-26-how-i-GTD.md" >}}) focused desktop**. Every time I open the phone without a reason, it reminds me of things I have to do, to update my journal and many other tasks that make my life better.
+It might sound bloated but it isn't. It's a **100% [GTD]({{< ref "2018-09-26-how-i-GTD.md" >}}) focused desktop**, a vauled assistant on my everyday life.
+
+In addition to that, every time I open the phone without a reason (because I am still addicted to be honest), it reminds me of things I have to do, of the (.txt based) journal I keep andf need to write on it, various tasks that I need to proceed with in order **to finish with them and have more time to spend** time with my family, friends or reading, photographing etc.
+
+
+**Note:** In [this post]({{< ref "2018-12-29-getting-my-life-back-part-three-self-hosting-my-personal-data.md" >}}) I give some further information on which apps I use for my productivity.
 
 ## Protecting the Eyes
 
@@ -77,13 +82,15 @@ As already mentioned in the [social media]({{< ref "2018-12-27-getting-my-life-b
 
 ### Using a Dumbphone
 
-Being a very active runner lately, I decided to start running without my smartphone, as I wanted to get more focused on my exercise. However I needed a phone with me, so I decided to buy the cheapest (I spent 20 euro for that) and smallest phone (Nokia 105 Dual Sim) I could find.
+Being a very active runner lately, I decided to start running without my smartphone, as I wanted to get more focused on my exercise. However I needed a phone with me, so I decided to buy the cheapest (I spent 20 euro for that) and smallest phone (Nokia 130 DS) I could find with bluetooth functionality (to use while driving).
 
 I got a second SIM with the same number from my carrier and started using it only when I was out running.
 
 After some months, I now use this phone during the weekend, when I am out with my family and in general, whenever I want to escape from the madness of my smartphone.
 
 I know that I will never replace my smartphone with a device like that. It's too late for me. However it's really nice to have this alternative whenever I need it.
+
+**Note:** When I am out with the dumbphone, in order to follow my GTD system, I usually carry a very small notebook and a pen, in order to note my inbox. If I have tasks to do, I either print them if they are a lot, or just write them on the notebook. When I am back home, I update my todo.txt on the smartphone or the desktop pc.
 
 
 ## Not Giving a Fuck About What Others Say
@@ -105,6 +112,10 @@ It's easy to do a research online and see yourself how social media along with s
 
 Escaping from dystopia is not an easy task, but at least let's give it a try together.
 
+
+## Useful links
+
+- [The Nosurf Smartphone Guide](https://nosurf.org/2018/02/26/the-nosurf-smartphone-guide/)
 
 
 

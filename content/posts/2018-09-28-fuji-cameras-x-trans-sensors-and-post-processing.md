@@ -41,7 +41,7 @@ Although this is not the only difference between **x-trans sensors** comparing t
 &nbsp;
 ## Demosaicing - from RAW data to an image
 
-What is very important to understand, is that **a RAW file is not an image**. It is just a file with data and it needs a lot of mathematical processing before it starts looking like an image. The first major step of converting these data to an image, is **demosaicing**:
+What is very important to understand, is that **a RAW file is not an image**. It is just a file with data and it needs a lot of mathematical processing before it starts looking like one. The first major step of converting these data to an image, is **demosaicing**:
 
 {{< youtube 9cPxEFpg3Eg>}}
 
