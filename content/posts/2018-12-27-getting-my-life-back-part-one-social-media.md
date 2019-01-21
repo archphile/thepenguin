@@ -11,7 +11,7 @@ Back in late 2017, during my first walks out as a completely new photographer, I
 
 Some of my photos were really successful, while others did not get the "likes" I believed they would. That was the first time I caught myself wanting to delete content that my (few) followers - mainly friends of mine - did not like.
 
-This was **a really sad realization** for me: although I was an amateur photographer, my creativity was "getting instructions" from my followers. Instead of learning how to shoot right and **make art** through photography, I had decided that approval from my followers was far important for me.
+This was **a really sad realization** for me: although I was an amateur photographer, my creativity was "getting instructions" from my followers. Instead of learning how to shoot right and **make art** through photography, I had decided that approval from my followers was far more important for me.
 
 
 So in June of 2018, I decided that **Instagram** was harming the first real effort in my life on being creative and had to be removed from my daily habits. As a result, my **Instagram** account was the first one to delete (after I had deleted all my content). 
@@ -51,7 +51,9 @@ I keep having communication with all the people I want and the most important is
 
 What is really important is that **I feel that I escaped from dystopia**. I miss **nothing** from my old social media days.
 
-Social media are addictive on purpose; they were created to be this way. And living with a an addiction less can only make life better.
+Social media are addictive on purpose; they were created to be this way. The whole purpose of their existence is to make us want to use them more, so they can **manipulate us**, be able to **modify our behaviors** and finally sell our data to advertisers (this is the best scenario!), manipulators/bad actors in general.
+
+It is easily understood that setting ourselves free from the social media addiction can only make our lives better!
 
 
 ## Useful links
