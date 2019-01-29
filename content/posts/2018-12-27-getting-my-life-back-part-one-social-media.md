@@ -51,7 +51,7 @@ I keep having communication with all the people I want and the most important is
 
 What is really important is that **I feel that I escaped from dystopia**. I miss **nothing** from my old social media days.
 
-Social media are addictive on purpose; they were created to be this way. The whole purpose of their existence is to make us want to use them more, so they can **manipulate us**, be able to **modify our behaviors** and finally sell our data to advertisers (this is the best scenario!), manipulators/bad actors in general.
+Social media are **addictive on purpose**; they were created to be this way. Their whole purpose is to **modify our behaviors** and **manipulate us** in order to **addict us as much as possible** and finally and finally **sell our data** (being addicted, we keep giving more and more data..) to advertisers (this is the best scenario!), manipulators/bad actors in general.
 
 It is easily understood that setting ourselves free from the social media addiction can only make our lives better!
 

@@ -2,7 +2,7 @@
 title = "Getting my life back, Part III - Self-hosting my personal data (contacts, bookmarks, passwords, calendar, notes, tasks)"
 date =  "2018-12-29"
 categories = ["General"]
-tags = ["contact management, password management, calendar, Nextcloud, GTD, Simpletask, Notes, Keepass2android, DAVdroid,"]
+tags = ["contact management", "password management", "calendar", "Nextcloud", "GTD", "Simpletask", "Notes", "Keepass2android", "DAVdroid"]
 +++
 
 This third part of the series "Getting my life back", is about **personal data privacy**. Although it's a huge topic, I will just try to give some further details on how I manage my own personal data, after of course having already [got rid of my social media accounts]({{< ref "2018-12-27-getting-my-life-back-part-one-social-media.md" >}}), one of the most dangerous personal privacy leaks.
