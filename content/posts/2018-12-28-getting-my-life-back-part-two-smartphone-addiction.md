@@ -2,7 +2,7 @@
 title = "Getting my life back, Part II - Smartphone Addiction"
 date =  "2018-12-28"
 categories = ["General"]
-tags = ["social media, smartphone"]
+tags = ["social media", "smartphone"]
 +++
 
 In my previous post about [social media]({{< ref "2018-12-27-getting-my-life-back-part-one-social-media.md" >}}), I mentioned how quitting them made me use my smartphone less. However smartphone use is much more complicated so below I will try to quickly express some of my thoughts and how-tos about this **first world problem**.
@@ -22,7 +22,7 @@ Last but not least I have created a **"Do Not Disturb"** profile that silences e
 
 ## Removing Applications
 
-During all these years of android use, I had ended up with a set of applications that I thought I should have installed "just in case I need them". 
+During all these years of Android use, I had ended up with a set of applications that I thought I should have installed "just in case I need them". 
 
 This time I decided to keep only what is really needed for my everyday use, focusing in productivity.
 
@@ -42,16 +42,16 @@ I decided to get rid of everything and to re-organize my desktop (based on Nova 
 - 2 [Simpletask](https://github.com/mpcjanssen/simpletask-android) widgets for my [GTD]({{< ref "2018-09-26-how-i-GTD.md" >}}): one shows tasks with priorities (A and B) and the other shows tasks with a due date
 - 2 widgets from [Notes](https://github.com/stefan-niedermann/nextcloud-notes), a [Nextcloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux.md" >}}) app I use for all my .txt lists, notes, journal etc..
 
-It might sound bloated but it isn't. It's a **100% [GTD]({{< ref "2018-09-26-how-i-GTD.md" >}}) focused desktop**, a vauled assistant on my everyday life.
+It might sound bloated but it isn't. It's a **100% [GTD]({{< ref "2018-09-26-how-i-GTD.md" >}}) focused desktop**, a valued assistant on my everyday life.
 
-In addition to that, every time I open the phone without a reason (because I am still addicted to be honest), it reminds me of things I have to do, of the (.txt based) journal I keep andf need to write on it, various tasks that I need to proceed with in order **to finish with them and have more time to spend** time with my family, friends or reading, photographing etc.
+In addition to that, every time I open the phone without a reason (because I am still addicted to be honest), it reminds me of things I have to do, of the (.txt based) journal I keep and need to write on it, various tasks that I need to proceed with in order **to finish with them and have more time to spend** time with my family, friends or reading, photographing etc.
 
 
 **Note:** In [this post]({{< ref "2018-12-29-getting-my-life-back-part-three-self-hosting-my-personal-data.md" >}}) I give some further information on which apps I use for my productivity.
 
 ## Protecting the Eyes
 
-In order to protect my eyes, I have "reading node" always on. In addition to that, I very frequently use the phone in **greyscale mode** (I enable it very easily with [Monochromatic](https://f-droid.org/en/packages/uk.co.richyhbm.monochromatic/)). This last "tweak", in addition to the protection, it makes the screen far less attractive so that it's difficult to stick the eyes on the phone unintentionally.
+In order to protect my eyes, I have "reading mode" always on. In addition to that, I very frequently use the phone in **greyscale mode** (I enable it very easily with [Monochromatic](https://f-droid.org/en/packages/uk.co.richyhbm.monochromatic/)). This last "tweak", in addition to the protection, it makes the screen far less attractive so that it's difficult to stick the eyes on the phone unintentionally.
 
 ## Dealing with the Addiction
 
@@ -108,12 +108,14 @@ Smartphone addiction is a very serious problem as it affects our whole life.
 
 In this post I chose not to refer to any statistics. I just wanted to share my story, hoping that it will help others by giving them inspiration and ideas.
 
-It's easy to do a research online and see yourself how social media along with smartphones are associated with **anxiety**, **depression** and several other mental disorders, especially for the age group of 18-23. Even better (or worse...), you can just go out **anywhere you want** (to the mall, to a bar, a restaruant etc..) and see the people around you. Everyone uses their smartphone avoiding communication with others.
+It's easy to do a research online and see yourself how social media along with smartphones are associated with **anxiety**, **depression** and several other mental disorders. Even better (or worse...), you can just go out **anywhere you want** (to the mall, to a bar, a restaurant etc..) and see the people around you. Everyone uses their smartphone avoiding communication with others.
 
 Escaping from dystopia is not an easy task, but at least let's give it a try together.
 
 
 ## Useful links
+
+- [Addiction to technology is ruining lives](https://www.youtube.com/watch?v=sL8AsaEJDdo)
 
 - [The Nosurf Smartphone Guide](https://nosurf.org/2018/02/26/the-nosurf-smartphone-guide/)
 

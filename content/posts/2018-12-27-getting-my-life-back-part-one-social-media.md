@@ -11,10 +11,10 @@ Back in late 2017, during my first walks out as a completely new photographer, I
 
 Some of my photos were really successful, while others did not get the "likes" I believed they would. That was the first time I caught myself wanting to delete content that my (few) followers - mainly friends of mine - did not like.
 
-This was **a really sad realization** for me: although I was an amateur photographer, my creativity was "getting instructions" from my followers. Instead of learning how to shoot right and **make art** through photography, I had decided that approval from my followers was far more important for me.
+This was **a really sad realization** for me: although I was an amateur photographer, my creativity was "getting instructions" from my followers. Instead of learning how to shoot right and **make art** through photography, I had already decided that getting approval from my followers was far more important for me.
 
 
-So in June of 2018, I decided that **Instagram** was harming the first real effort in my life on being creative and had to be removed from my daily habits. As a result, my **Instagram** account was the first one to delete (after I had deleted all my content). 
+So in June of 2018, I decided that **Instagram** was harming the first real effort in my life on being creative and for this reason it had to be removed from my daily habits. As a result, my **Instagram** account was the first one to delete (after I had deleted all my content). 
 
 ## Twitter
 
@@ -24,18 +24,18 @@ I started reading all my past tweets and I felt sad. That was not me, but an imp
 
 ## Facebook
 
-My last remaining account was that of **Facebook**. Although I had lost my interest on Facebook long ago, I kept using it whenever I felt bored during the day, sometimes resulting in heavy use. In addition to that **Facebook Messenger** has become one of the most popular means of communication, and although I really did not like it at all (I had major privacy concerns), I kept using it because it was the easiest way to chat with almost everyone I know. However, as my sceptisism about social media was massively increasing, started considering deleting my account. I decided to do the same with **Twitter**, so I started to read my content from the past.
+My last remaining account was that of **Facebook**. Although I had lost my interest on Facebook long ago, I kept using it whenever I felt bored during the day, sometimes resulting in heavy use. In addition to that **Facebook Messenger** has become one of the most popular means of communication, and although I really did not like it at all (I had major privacy concerns), I kept using it because it was the easiest way to chat with almost everyone I know. However, as my skepticism about social media was massively increasing, started considering deleting my account. I decided to do the same I did with **Twitter**, so I started to read my content from the past.
 
-I was a member of **Facebook**. For more than nine years, so reading posts of my 10 years younger self was a mixutre of sad and funny feelings. One thing was for sure: that guy wasn't me and all these postings were 100% irrelevant to my current self. Apart from that, I started thinking of my past **Facebook** use. I remembered times I decided to delete content that got less likes than expected, or times I felt really nice because of a successful post. One word came again to mind: **dopamine**.
+I was a member of **Facebook** for more than nine years, so reading posts of my much younger self was a mixture of sad and funny feelings. One thing was for sure: that guy wasn't me and all these postings were 100% irrelevant to my current self. Apart from that, I started thinking of my past **Facebook** use. I remembered times I decided to delete content that got less likes than expected, or times I felt really nice because of a "successful" post. One word came again to mind: **dopamine**.
 
-The days passed and I still hadn't decided what to do with this account, always telling to myself that not having a **Facebook**  account would stop communication with peopke I cared about. And then I asked myself "how many people will you lose if you stop using facebook?". The reply was "ONE". So, I contacted this very old friend of mine, I informed her that she could not longer reach me over **Facebook** and apart from phone calls, she could either use Viber or Whatsapp to chat with me.
+The days passed and I still hadn't decided what to do with this account, always telling to myself that not having a **Facebook**  account would stop communication with people I cared about. And then I asked myself "how many people will you lose if you stop using Facebook?". The reply was "ONE". So, I contacted this very old friend of mine, I informed her that she could not longer reach me over **Facebook** and apart from phone calls, she could either use Viber or Whatsapp to chat with me.
 
 To cut the long story short, I decided again to proceed with the usual step and I deleted my **Facebook** account along with my **Facebook messenger** one.
 
 
 ## Living without social media
 
-I have to admit that I did not expect that deleting my social media accounts (apart from **Linkedin** which I am still obliged to have and occasionaly use for business reasons) to change my life so drastically.
+I have to admit that I did not expect that deleting my social media accounts (apart from **Linkedin** which I am still obliged to have and occasionally use for business reasons) to change my life so drastically.
 
 The first days without all these apps on my smartphone I felt really funny. I kept opening the screen of my smartphone realizing that I could not spend my time by infinitely scrolling my **Facebook** or **Twitter** feed. So, I decided to **replace an old habit with a new one** and **I started reading** electronic books. After 2 months of almost being addicted to reading, I bought a **Kindle**. After all these months, I only use my smartphone when needed (and mainly for my **GTD** system).
 
@@ -51,7 +51,7 @@ I keep having communication with all the people I want and the most important is
 
 What is really important is that **I feel that I escaped from dystopia**. I miss **nothing** from my old social media days.
 
-Social media are **addictive on purpose**; they were created to be this way. Their whole purpose is to **modify our behaviors** and **manipulate us** in order to **addict us as much as possible** and finally and finally **sell our data** (being addicted, we keep giving more and more data..) to advertisers (this is the best scenario!), manipulators/bad actors in general.
+Social media are **addictive on purpose**; they were created to be this way. Their whole purpose is to **modify our behaviors** and **manipulate us** in order to **addict us as much as possible** and finally **sell our data** (being addicted, we keep giving more and more data..) to advertisers (this is the best scenario!), manipulators/bad actors in general.
 
 It is easily understood that setting ourselves free from the social media addiction can only make our lives better!
 
