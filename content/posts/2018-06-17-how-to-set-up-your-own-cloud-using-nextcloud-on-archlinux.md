@@ -6,6 +6,8 @@ categories = ["General"]
 tags = ["nextcloud", "archlinux", "cloud", "scaleway", "nginx", "vps"]
 +++
 
+*Note: this post was updated at 2019-03-22 to ensure compatibilty with latest Nextcloud 15*
+
 After writing [this post] ({{< ref "2018-06-06-how-to-use-a-simple-text-based-todo-list-to-get-things-done" >}}) regarding how I use my **todo.txt** file, I realized that it was time to set up a [Nextcloud](https://nextcloud.com/)  server (again) the soonest possible so that I will be aple to stop relying on proprietary services like [Dropbox](https://www.dropbox.com/).
 
 All I needed was:
@@ -39,10 +41,13 @@ Last but not least, scaleway **blocks  SMTP**  by default, so you will need to g
 &nbsp;	
 #### The "basic" stuff
 
+When you log in for the first time, change your password:
+
+	passwd
+
 [Archlinux](https://archlinux.org)  is a rolling release distro, so a good idea for a "first step" is to upgrade the OS:
 
-	pacman -Syu
-	
+	pacman -Sy archlinux-keyring && pacman -Syyu
 Then, set a custom hostname:
 
 
@@ -91,15 +96,7 @@ Create the database for nextcloud:
 	\q
 	
 
-Finaly, edit my.cnf:
 
-	nano /etc/mysql/my.cnf
-	
-and ensure that the following lines are there and active:
-
-	log-bin = mysql-bin
-	binlog_format  = mixed
- 	
  &nbsp;	
 #### The "PHP" stuff
 
@@ -117,6 +114,9 @@ and enable the following lines:
 	extension=mysqli
 	extension=pdo_mysql
 	extension=gd
+	extension=iconv
+	extension=intl
+
 
 Add this block for **APC**:
 
@@ -174,7 +174,7 @@ create the needed directory structure:
 
 Get the initial nginx configuration file to use in  order to get the SLL certificate:
 
-	wget https://raw.githubusercontent.com/graysky2/configs/master/nginx/nextcloud-initial.conf -O /etc/nginx/conf.d/owncloud.conf
+	wget https://raw.githubusercontent.com/archphile/configs/master/nginx/nextcloud-initial.conf -O /etc/nginx/conf.d/nextcloud.conf
 	
 **Note:** You will need to edit this file and change "@@FQDN@@" with your domain.
 
@@ -201,7 +201,7 @@ Now it's time to get the certificate:
 	
 When certbot is finished, download the final nginx configuration:
 
-	wget https://raw.githubusercontent.com/graysky2/configs/master/nginx/nextcloud.conf -O /etc/nginx/conf.d/owncloud.conf
+	wget https://raw.githubusercontent.com/archphile/configs/master/nginx/nextcloud.conf -O /etc/nginx/conf.d/nextcloud.conf
 	
 **Note:** You will need to edit this file and change "@@FQDN@@" with your domain **one more time**.
 
