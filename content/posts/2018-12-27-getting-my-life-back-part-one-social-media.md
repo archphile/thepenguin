@@ -11,7 +11,7 @@ Back in late 2017, during my first walks out as a completely new photographer, I
 
 Some of my photos were really successful, while others did not get the "likes" I believed they would. That was the first time I caught myself wanting to delete content that my (few) followers - mainly friends of mine - did not like.
 
-This was **a really sad realization** for me: although I was an amateur photographer, my creativity was "getting instructions" from my followers. Instead of learning how to shoot right and **make art** through photography, I had already decided that getting approval from my followers was far more important for me.
+This was **a really sad realization** for me: although I was an amateur photographer, my creativity was "being instructed" by my social media followers. Instead of learning how to shoot right and **make art** through photography, I had already decided that getting approval from my followers was far more important for me.
 
 
 So in June of 2018, I decided that **Instagram** was harming the first real effort in my life on being creative and for this reason it had to be removed from my daily habits. As a result, my **Instagram** account was the first one to delete (after I had deleted all my content). 
