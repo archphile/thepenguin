@@ -22,6 +22,7 @@
 127.0.0.1 adwords.google.com
 127.0.0.1 amp-error-reporting.appspot.com
 127.0.0.1 analytics.slashdotmedia.com
+127.0.0.1 api.adsnative.com
 127.0.0.1 api.branch.io
 127.0.0.1 app.adjust.com
 127.0.0.1 app-measurement.com
@@ -47,6 +48,7 @@
 127.0.0.1 e.crashlytics.com
 127.0.0.1 e.reddit.com
 127.0.0.1 fastlane.rubiconproject.com
+127.0.0.1 feed.mikle.com
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 gate.hockeyapp.net
 127.0.0.1 graph.instagram.com
@@ -64,13 +66,16 @@
 127.0.0.1 pageview.goroost.com
 127.0.0.1 pings.vidpulse.com
 127.0.0.1 public-prod-dspcookiematching.dmxleo.com
+127.0.0.1 prd-collector-anon.playbuzz.com
 127.0.0.1 prebid.districtm.ca
+127.0.0.1 profile.localytics.com
 127.0.0.1 redirector.gvt1.com
 127.0.0.1 register.appsflyer.com
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 sb.voicefive.com
 127.0.0.1 secure statcounter.com
 127.0.0.1 settings.crashlytics.com
+127.0.0.1 silktide.com
 127.0.0.1 speee-ad.akamaized.net
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.adman.gr
@@ -89,9 +94,10 @@
 127.0.0.1 tag.mtrcs.samba.tv
 127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 telemetry.malwarebytes.com
-127.0.0.1 yield-manager.browsiprod.com
+127.0.0.1 venetia.iad.appboy.com
 127.0.0.1 x.appbaqend.com
 127.0.0.1 x.bidswitch.com
+127.0.0.1 yield-manager.browsiprod.com
 ##-----------------------------------------------------
 ## Telemetry and Adblock list for xiaomi devices 
 ##-----------------------------------------------------

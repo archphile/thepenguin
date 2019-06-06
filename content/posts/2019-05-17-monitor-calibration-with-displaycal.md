@@ -29,7 +29,7 @@ Although the following values may vary depending on one's needs, they are a safe
 - **White level (brightness):** 90cd/m<sup>2</sup>
 - **Gamma:** 2.2
 
-Note that many photographers who focus in printing, prefer lower temperatures, ex **5000K** or **5500K**. I  print my photos too, however I find these settings to be too "yellowish" for everyday use, so I prefer 6500K, which is a safe and widely used value in the digital world.
+Note that many photographers who focus in printing, prefer lower temperatures, ex. **5000K** or **5500K**. I  print my photos too, however I find these settings to be too "yellowish" for everyday use, so I prefer 6500K, which is a safe and widely used value in the digital world.
 
 Regarding the brightness, most of the articles online suggest a value of **120cd/m<sup>2</sup>**. However I find it **extremely bright**, and after a lot of trials and errors I found **90cd/m<sup>2</sup>** to be more than enough for my needs.
 
