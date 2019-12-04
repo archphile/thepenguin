@@ -14,7 +14,6 @@ body {
   padding: 5px;
   border-radius: 5px;
 }
-.terms { font-size: .9em; }
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
@@ -23,16 +22,10 @@ hr {
   color: #ddd;
 }
 
-/* pagination */
-.pagination { text-align: center; }
-.pagination li { display: inline; }
-.pagination a { padding: 0 .2em; }
-
 /* code */
 pre {
   border: 1px solid #ddd;
-  box-shadow: 5px 5px 5x #eee;
-  background: #f8f8f8;
+  box-shadow: 5px 5px 5px #eee;
   padding: 1em;
   overflow-x: auto;
 }
@@ -55,4 +48,4 @@ table {
 }
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
-thead, tfoot, tr:nth-child(even) { background: #eee }
+thead, tfoot, tr:nth-child(even) { background: #eee; }

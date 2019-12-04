@@ -115,6 +115,8 @@ Escaping from dystopia is not an easy task, but at least let's give it a try tog
 
 ## Useful links
 
+- [Nasty, brutish and dumb: Humans and their phones](https://www.youtube.com/watch?v=WrQesbxOFNo)
+
 - [Addiction to technology is ruining lives](https://www.youtube.com/watch?v=sL8AsaEJDdo)
 
 - [The Nosurf Smartphone Guide](https://nosurf.org/2018/02/26/the-nosurf-smartphone-guide/)

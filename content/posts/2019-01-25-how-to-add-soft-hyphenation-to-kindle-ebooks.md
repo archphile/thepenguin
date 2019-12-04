@@ -7,7 +7,7 @@ tags = ["kindle", "hyphenation", "calibre", "Hyphenate This!"]
 
 One of the major "issues" with kindle, is how much its hyphenation capabilities suck, especially, when an e-book is not specifically made for kindle and it's converted from an .epub file(as most of my e-books are).
 
-However, the community (**SauliusP** to be more specific) gave a solution to this, with a [calibre](https://calibre-ebook.com/) plugin named [Hypenate This!](https://www.mobileread.com/forums/showthread.php?t=208534)
+However, the community (**SauliusP** to be more specific) gave a solution to this, with a [calibre](https://calibre-ebook.com/) plugin named [Hyphenate This!](https://www.mobileread.com/forums/showthread.php?t=208534)
 
 ## Installation
 
