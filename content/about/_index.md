@@ -11,4 +11,5 @@ I spend most of my free time listening to music, shooting with my Fuji, torturin
 
 
 **About this website:**
-The Penguin was created using [hugo](https://gohugo.io/ ) framework and [whiteplain](https://github.com/taikii/whiteplain) theme.
+
+"The Penguin" was created using [hugo](https://gohugo.io/ ) framework and [whiteplain](https://github.com/taikii/whiteplain) theme.
