@@ -1,35 +1,97 @@
-baseurl = "https://thepenguin.eu/"
-paginate = 10
+baseURL = "https://thepenguin.eu/"
 languageCode = "en-us"
 title = "The Penguin"
-theme = "hugo-xmin"
-googleAnalytics = "UA-107164874-1"
-#disqusShortname = "htttp-thepenguin-eu"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-preserveTaxonomyNames = true
-footnotereturnlinkcontents = "↩"
+theme = "whiteplain"
+#copyright = "© Copyright notice"
 
-[permalinks]
-    posts = ":filename"
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsOptions = "linenos=table"
+
+# Your Google analytics code.
+googleAnalytics = "UA-107164874-1"
+# Your Disqus sortname.
+#disqusShortname = "localhost"
+
+[params]
+  # useCDN = false
+  # showShareIcons = true
+  # Date format
+  dateFormat = "January 2, 2006"
+  # Put images/favicon.ico file
+  #favicon = "icons/favicon.ico"
+
+# This is displayer in About page.
+[params.author]
+  name = "Mike"
+
+  # Gravatar or Abatar image
+  gravatar = "info@archphile.org"
+  #avatar = "/path/to/avatar"
+
+  #twitter = "Twitter username"
+  #facebook = "Facebook username"
+  #googleplus = "Googleplus username"
+  #instagram = "Instagram username"
+  #tumblr = "Tumblr username"
+  #flickr = "Flickr username"
+  #reddit = "Reddit username"
+  #linkedin = "Linkedin username"
+  #slideshare = "Slideshare username"
+  github = "archphile"
+  #gitlab = "Gitlab username"
+  #bitbucket = "Bitbucket username"
+  #stackoverflow = "Stackoverflow username"
+  #jsfiddle = "Jsfiddle username"
+  #codepen = "Codepen username"
+  #deviantart = "Deviantart username"
+  #behance = "Behance username"
+  #dribbble = "Dribbble username"
+  #wordpress = "Wordpress username"
+  #medium = "Medium username"
+  #foursquare = "Foursquare username"
+  #xing = "Xing username"
+  #quora = "Quora username"
+  #youtube = "Youtube username"
+  #vimeo = "Vimeo username"
+  #whatsapp = "Whatsapp username"
+  #skype = "Skype username"
+  #snapchat = "Snapchat username"
+  #pinterest = "Pinterest username"
+  #telegram = "Telegram username"
+  #vine = "Vine username"
+  #email = "Your email"
+
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
 
 [[menu.main]]
     name = "home"
     url = "/"
     weight = 1
+
 [[menu.main]]
     name = "categories"
     url = "/categories/"
     weight = 2
+
 [[menu.main]]
     name = "tags"
     url = "/tags/"
     weight = 3
+
 [[menu.main]]
     name = "about"
     url = "/about/"
     weight = 4
 
 
-[params]
-    description = "A blog about Linux, Digital Audio, Photography and more..."
-    footer = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) | 2017 - ∞ | [rss](http://thepenguin.eu/index.xml) | [email](mailto:null@thepenguin.eu)"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
