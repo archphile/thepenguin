@@ -1,4 +1,4 @@
-baseURL = "https://thepenguin.eu/"
+baseURL = "https://thepenguin.eu"
 languageCode = "en-us"
 title = "The Penguin"
 theme = "whiteplain"
@@ -12,6 +12,9 @@ pygmentsOptions = "linenos=table"
 googleAnalytics = "UA-107164874-1"
 # Your Disqus sortname.
 #disqusShortname = "localhost"
+
+[permalinks]
+  post = ":filename"
 
 [params]
   # useCDN = false
