@@ -6,9 +6,9 @@ categories = ["General"]
 tags = ["nextcloud", "archlinux", "cloud", "scaleway", "nginx", "vps"]
 +++
 
-*Note: this post was updated at 2019-03-22 to ensure compatibilty with latest Nextcloud 15*
+*Note: this post was updated at 2020-01-21 to ensure compatibilty with latest Nextcloud 18 and PHP 7.4*
 
-After writing [this post] ({{< ref "2018-06-06-how-to-use-a-simple-text-based-todo-list-to-get-things-done" >}}) regarding how I use my **todo.txt** file, I realized that it was time to set up a [Nextcloud](https://nextcloud.com/)  server (again) the soonest possible so that I will be aple to stop relying on proprietary services like [Dropbox](https://www.dropbox.com/).
+After writing [this post]({{< ref "2018-06-06-how-to-use-a-simple-text-based-todo-list-to-get-things-done" >}}) regarding how I use my **todo.txt** file, I realized that it was time to set up a [Nextcloud](https://nextcloud.com/)  server (again) the soonest possible so that I will be aple to stop relying on proprietary services like [Dropbox](https://www.dropbox.com/).
 
 All I needed was:
 
@@ -156,6 +156,30 @@ and enable this line:
 	env[PATH] = /usr/local/bin:/usr/bin:/bin
 
 
+If you use php-fpm 7.4 you need to do the following:
+
+	systemctl edit php-fpm.service
+
+and save the following content:
+
+	[Service]
+	ReadWritePaths = /usr/share/webapps/nextcloud/apps
+	ReadWritePaths = /etc/webapps/nextcloud/config
+	
+	# Replace the following path with the Nextcloud data directory
+	ReadWritePaths = /usr/share/webapps/nextcloud/data/
+
+# Replace the following path with the Nextcloud data directory
+ReadWritePaths = /var/nextcloud
+
+[Service]
+ReadWritePaths = /usr/share/webapps/nextcloud/apps
+ReadWritePaths = /etc/webapps/nextcloud/config
+
+# Replace the following path with the Nextcloud data directory
+ReadWritePaths = /var/nextcloud
+
+
 Finally, start and enable the service:
 
 	systemctl enable php-fpm
@@ -231,6 +255,8 @@ Install the package:
 	
 Create directory structure and modify permissions:
 
+	chown http:http /usr/share/webapps/nextcloud/
+	chmod 750 /usr/share/webapps/nextcloud/
 	mkdir -p /usr/share/webapps/nextcloud/data
 	chown http:http /usr/share/webapps/nextcloud/data
 	chown http:http /usr/share/webapps/nextcloud/apps

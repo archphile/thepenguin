@@ -8,7 +8,7 @@ tags = ["cd", "vinyl", "dynamic range"]
 
 Although I am not a big fan of the 70's Rock, there are some albums from this era I love and I always try to find a good CD master  for my digital library.
 
-One of these albums is **Rumours** from **Fleetwood Mac**. Long time ago, I ripped my father's cd with EAC . It's  a US release, for  which unfortunately I don't remember much.  Below  you can  see its dynamic range report  using [DR14 T.meter] ({{< ref "2017-09-27-dr14tmeter-a-nice-tool-to-find-the-dr-of-an-album.md" >}}):
+One of these albums is **Rumours** from **Fleetwood Mac**. Long time ago, I ripped my father's cd with EAC . It's  a US release, for  which unfortunately I don't remember much.  Below  you can  see its dynamic range report  using [DR14 T.meter]({{< ref "2017-09-27-dr14tmeter-a-nice-tool-to-find-the-dr-of-an-album.md" >}}):
 
 	 ---------------------------------------------------------------------------------------------    
 	 Analyzed: Rumours /  Artist: Fleetwood Mac
@@ -37,12 +37,12 @@ One of these albums is **Rumours** from **Fleetwood Mac**. Long time ago, I ripp
 	Dr14 T.meter 1.0.16 
 	==============================================================================================
 
-and this is a redbook spectrogram of my favourite song **The Chain**:
+and this is a redbook spectrogram of my favourite songs, **The Chain**:
 
 ![The Chain - Bad CD Master](/img/the-chain-bad-cd-master.jpg) 
 
 
-Although I was not very impressed with the sound quality, I always though that this was an acceptable version I really enjoyed listening to......until I listened to an 24/96 **Vinyl Rip**.
+Although I was not very impressed with the sound quality, I always though that this was an acceptable version I really enjoyed listening to......until I listened to a 24/96 **Vinyl Rip**.
 
 Below you can see the dynamic range of this vinyl rip:
 
@@ -122,14 +122,14 @@ Just for the record, this is a spectrogram of the same file:
 This spectrogram is typical for that era, with a low pass filter applied and set an approx. 20KHz limit.
 
 
-What about  the sound quality? It's very close to the vinyl rip. Everything is natural and quiet again and this CD release has nothig to do with the first!
+What about  the sound quality? It's very close to the vinyl rip. Everything is natural and quiet again and this CD release has nothing to do with the first!
 
 
 Based on all this stuff I would like to share **some final thoughts**:
 
 -  There can't be an actual comparison between vinyl and CD versions of an album. Different mastering procedures will lead to a very different result and it's not fair to blame the CD or the vinyl for this.
 - CD masters of old albums are **VERY different**. If a CD version of an album sounds horrible don't blame the format! There might be another that sounds much better!
-- Ripping vinyls is a very difficult procedure, but if you know what you are doing the result can be amazing!
+- Ripping vinyls is a very difficult procedure, but if you know how to do it, the result can be amazing!
 
 
  

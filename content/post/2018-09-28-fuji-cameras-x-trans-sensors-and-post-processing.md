@@ -29,7 +29,7 @@ Assuming that we spent 10 minutes to read this really nice article, it's now obv
 
 The most popular filter or to name it even better  **color filter array** for digital cameras is the [Bayer filter](https://en.wikipedia.org/wiki/Bayer_filter) and what makes x-trans sensors different is that **they don't use a Bayer filter.**
 
-![Bayer vs x-trans sensors] (/img/bayer-vs-xtrans.jpg) 
+![Bayer vs x-trans sensors](/img/bayer-vs-xtrans.jpg) 
 
 Although this is not the only difference between **x-trans sensors** comparing to a typical camera (Bayer) sensor, I won't go into details about the rest (ex. the lack of anti-alising filter), as what I just mentioned is enough to explain the major differences in post-processing.
 

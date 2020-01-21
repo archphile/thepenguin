@@ -6,14 +6,14 @@ categories = ["General"]
 tags = ["nas", "usb disk", "samba", "archlinuxarm"]
 +++
 
-Back in 2014, when I started developing [Archphile](http://archphile.org), I was using my desktop PC with [samba](https://www.samba.org/)  in order to share my music to my transport. After almost a year I decided that I don't want my PC to be running everytime I need to listen to some music. Besides this, my PC was and still is in a small room very close to my hi-fi, so being heavily obsessed with fan noises (and usually listening to music at low levels), I decided that it was time to create my first "quick and dirty" **USB NAS**.
+Back in 2014, when I started developing [Archphile](http://archphile.org), I was using my desktop PC with [samba](https://www.samba.org/)  in order to share my music to my transport. After almost a year I decided that I didn't want my PC to be running every time I needed to listen to some music. Besides this, my PC was and still is in a small room, very close to my hi-fi, so being heavily obsessed with fan noises (and usually listening to music at low levels), I decided that it was time to create my first "quick and dirty" **USB NAS**.
 
 I was already using a **Devolo** powerline solution to connect to a Raspberry Pi/Openelec at the living room, so this NAS would go to the other side of the house (close to the RPI) so that I could not hear even the fan noise of the USB disk.
 
 To cut the long story short, for my first implementation I used:
 
-- A **cubox-i4** pro with [ArchlinuxARM](https://archlinuxarm.org) 
-- A western digital usb disk **Mybook 2T**
+- a **cubox-i4** pro with [ArchlinuxARM](https://archlinuxarm.org) 
+- a WD usb disk **Mybook 2T**
 
 I started looking for various software solutions in order to implement a complete NAS solution and after a lot of research I ended up with an installation that included:
 

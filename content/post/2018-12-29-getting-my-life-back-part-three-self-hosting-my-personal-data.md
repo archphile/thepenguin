@@ -85,7 +85,7 @@ Note keeping is a very important part of my [GTD system]({{< ref "2018-09-26-how
 
 along with
 
-- [Notes] (https://f-droid.org/en/packages/it.niedermann.owncloud.notes/) for Android
+- [Notes](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/) for Android
 
 
 <br>

@@ -6,7 +6,7 @@ categories = ["Audio"]
 tags = ["linux audio", "dsd", "mpd", "wavpack"]
 +++
 
-One of the biggest disadvantages of **DSD** files is their size. Most of the users who like DSD format, keep large [SACD ISOs] ({{< ref "2017-09-29-how-to-convert-sacd-to-dsf-dff.md" >}})
+One of the biggest disadvantages of **DSD** files is their size. Most of the users who like DSD format, keep large [SACD ISOs]({{< ref "2017-09-29-how-to-convert-sacd-to-dsf-dff.md" >}})
 or split them to **dsf/dff** files. In both cases, the result is horrible space-wise as the majority of music albums need more than **1.5GB** (only for the 2 channel files).
 
 It was not long ago that [Wavpack](http://www.wavpack.com) project came with a solution to the above: a **lossless compression algorithm** for dsf/dff files, resulting in up to **60% smaller files**.
@@ -52,7 +52,7 @@ Now it was time to test the **high quality compression** option:
 To my surprise, the resulting **.wv** DSD files had a total size of **1.2GB**!
 
 
-It was time to test these files with [MPD]({{ site.baseurl }}{% post_url 2017-12-22-mpd-and-dsd-files%}). I quickly rebuilt Archphile packages with wavpack support and tested the **highly compressed files** (as this is the most cpu hungry scenario) using the **Archphile/Odroid C2** combo as a transport. In my configuratio, MPD is using only **one and dedicated Odroid C2 CPU core**. The decoding of the .wv file needed approx **25%** of this core.
+It was time to test these files with [MPD]({{< ref "2017-12-22-mpd-and-dsd-files.md" >}}). I quickly rebuilt Archphile packages with wavpack support and tested the **highly compressed files** (as this is the most cpu hungry scenario) using the **Archphile/Odroid C2** combo as a transport. In my configuratio, MPD is using only **one and dedicated Odroid C2 CPU core**. The decoding of the .wv file needed approx **25%** of this core.
 
 The most importand part of this test, was to check if the files were recognised as DSD files during playback:
 

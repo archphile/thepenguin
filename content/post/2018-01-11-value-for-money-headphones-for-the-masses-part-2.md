@@ -6,7 +6,7 @@ categories = ["Audio"]
 tags = ["headphones", "earbuds"]
 +++
 
-Two months ago I wrote [this article] ({{< ref "2017-10-03-value-for-money-headphones-for-the-masses-part-1.md" >}}) regarding all the **value for money** IEM and earbud headphones I had at that time. Enjoying my **VE Monk Plus** made me want to try more vfm **earbuds** and below you will find a small list of some more I bought and tested so far.
+Two months ago I wrote [this article]({{< ref "2017-10-03-value-for-money-headphones-for-the-masses-part-1.md" >}}) regarding all the **value for money** IEM and earbud headphones I had at that time. Enjoying my **VE Monk Plus** made me want to try more vfm **earbuds** and below you will find a small list of some more I bought and tested so far.
 
 ![Earbuds Penonaudio](/img/earbuds_penonaudio.jpg  "Earbuds")
 
@@ -34,7 +34,7 @@ They are nicely built and the use of this transparent cable makes them **look an
 
 ### Final Thoughts
 
-Although I clearly prefer the character of the TP16, I keep using all of my earbuds (apart from the Monks). I mostly use my the **TP16** with my **Fiio X1**, while the **Hi-Z** (or the Colarad) make a nice combo with the [Sansa Clip Plus]({{ site.baseurl }}{% post_url 2017-09-27-rockbox-314-on-sansa-clip-plus%}).
+Although I clearly prefer the character of the TP16, I keep using all of my earbuds (apart from the Monks). I mostly use my the **TP16** with my **Fiio X1**, while the **Hi-Z** (or the Colarad) make a nice combo with the [Sansa Clip Plus]({{< ref "2017-09-27-rockbox-314-on-sansa-clip-plus.md" >}}).
 
 To sum up, if you want to spend **less than 10 euros** and you like or don't have a problem with **bright highs** you should definately **go for the Hi-Z**.
 

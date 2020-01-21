@@ -6,7 +6,7 @@ categories = ["Photography"]
 tags = ["photography", "Sony A6000"]
 +++
 
-Further to my [first post] ({{< ref "2017-09-28-how-to-properly-set-up-your-sony-a6000.md" >}})
+Further to my [first post]({{< ref "2017-09-28-how-to-properly-set-up-your-sony-a6000.md" >}})
 regarding the Sony A6000 configuration, below you will find some 
 additional interesting youtube videos that will help you properly configure various focus settings.
 

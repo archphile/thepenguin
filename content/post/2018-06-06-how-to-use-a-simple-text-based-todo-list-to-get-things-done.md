@@ -23,7 +23,7 @@ Lets have a look at a summary of the rules:
 
 ![todo.txt rules](/img/todotxt-rules.png "todotxt")
 
-and lets say that I want to keep a note to make [myMPD] ({{< ref "2018-06-04-mympd-my-new-favorite-mpd-client" >}}) packages for [Archphile](http://archphile.org) . That would be:
+and lets say that I want to keep a note to make [myMPD]({{< ref "2018-06-04-mympd-my-new-favorite-mpd-client" >}}) packages for [Archphile](http://archphile.org) . That would be:
 
 	create myMPD packages for archphile
  
