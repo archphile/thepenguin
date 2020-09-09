@@ -5,7 +5,7 @@ categories = ["General"]
 tags = ["social media", "smartphone"]
 +++
 
-In my previous post about [social media]({{< ref "2018-12-27-getting-my-life-back-part-one-social-media.md" >}}), I mentioned how quitting them made me use my smartphone less. However smartphone use is much more complicated so below I will try to quickly express some of my thoughts and how-tos about this **first world problem**.
+In my previous post about [social media]({{< ref "2018-12-27-getting-my-life-back-part-one-social-media.md" >}}), I mentioned how quitting them made me use my smartphone less. However smartphone use is way more complicated, so below I will try to (briefly) express some of my thoughts and how-tos about this **first world problem**.
 
 ## Disabling Notifications
 
@@ -13,11 +13,11 @@ Social media are not the only cause of annoying notifications on smartphones.
 
 Even in this new situation without any social media application on my Xiaomi Mi Max 2, I had to turn off various notifications from email accounts I don't want to have push notifications on, application reminders, etc.
 
-Especially for emails (I have A LOT of them), I decided to completely remove accounts that there is no need to read them on the go (like for example my [Archphile email](https://archphile.org)).
+Especially for emails, I decided to completely remove accounts (I have A LOT of them) where there is no need to read them on the go (like for example my [Archphile email](https://archphile.org)).
 
 For the remaining emails, I unsubscribed from all annoying mailing lists to ensure the less possible distraction from them.
 
-Last but not least I have created a **"Do Not Disturb"** profile that silences everything from 23:00 to 08:00.
+Last but not least I have created a **"Do Not Disturb"** profile that silences everything from 22:00 to 08:00.
 
 
 ## Removing Applications

@@ -176,9 +176,6 @@ ReadWritePaths = /var/nextcloud
 ReadWritePaths = /usr/share/webapps/nextcloud/apps
 ReadWritePaths = /etc/webapps/nextcloud/config
 
-# Replace the following path with the Nextcloud data directory
-ReadWritePaths = /var/nextcloud
-
 
 Finally, start and enable the service:
 

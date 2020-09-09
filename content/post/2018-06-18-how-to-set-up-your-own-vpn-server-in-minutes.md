@@ -6,7 +6,7 @@ categories = ["General"]
 tags = ["vpn", "openvpn", "archlinux", "vps"]
 +++
 
-After [setting up my own cloud] ({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux.md" >}}) on a scaleway VPS, I decided that it would be a good idea if I also set it up as a **VPN** server.
+After [setting up my own cloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux.md" >}}) on a scaleway VPS, I decided that it would be a good idea if I also set it up as a **VPN** server.
 
 The first time I needed a VPN server, was when after years working from home, I got an office based job. I wanted some privacy with regards to my smartphone browsing (using their wireless connection), so I found **this amazing script**:
 

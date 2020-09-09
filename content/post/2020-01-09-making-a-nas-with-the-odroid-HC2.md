@@ -34,7 +34,7 @@ When I received it, I plugged in my WD Red on the **SATA-3** port and then I sta
 
 If you read this blog you would have already understood that apart from being a geek, I am also a control freak. I need to know what exactly is happening with regards to the OS, processes etc..
 
-I would usually install [ArchlinuxARM](https://archlinuxarm.org/), samba, etc, and create a 100% OS for my needs. This time I decided to choose a different route and to be the right choice..
+I would usually install [ArchlinuxARM](https://archlinuxarm.org/), samba, etc, and create a 100% tailored OS for my needs. This time I decided to choose a different route and it proved to be the right choice..
 
 ### Openmediavault
 
@@ -72,7 +72,7 @@ Performance wise, the HC2/Openmediavault combo proved to be more than enough for
 
 In [this post]({{< ref "2018-05-29-pi-hole-on-an-odroid-c1-plus-my-experience-so-far.md" >}}) I explained how I used the Odroid C1+ in order to create a pihole box. 
 
-After finishing with the configuration of the NAS, I decided to make HC2 a Pi-hole box too so that I could get rid of C1+.
+After finishing with the configuration of the NAS, I decided to make HC2 a Pi-hole box too so that I could get rid of the C1+.
 
 In order to access the web interface I had to modify the web port of lighttpd to 8080. The URL for the pi-hole admin interface became:
 
