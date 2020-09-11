@@ -7,13 +7,13 @@ tags = ["calibration", "displaycal", "colormunki", "color management"]
 
 In this article I will give you some details on the procedure I follow in order to calibrate my [Dell U2515H](https://www.dell.com/enterprise/p/dell-u2515h-monitor/pd) monitor for optimal photo editing results.
 
-Please note that I am very far from being an expert in this field and that the following information is what I have understood after a whole year of trials and errors.
+Please note that I am very far from being an expert in this field and that the following information is based on what I have understood after a whole year of trials and errors.
 
 ## My hardware and software configuration
 
 My setup is very complicated comparing to the average photographer's one. My main OS is [Archlinux](https://archlinux.org). For my photographing editing needs I use *Windows 10* on a [KVM virtual machine with GPU Passthrough](https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF). This means that although Windows 10 OS runs on a virtual machine, I am able to use a real isolated GPU with that.
 
-So, every time I need to calibrate, I do the procedure twice: one time for **Archlinux/Intel onboard HD 530** and one time for **Windows 10/Nvidia 1050TI**.
+So, every time I need to calibrate, I do the procedure twice: one time for **Archlinux/Intel onboard HD 530** and one time for **Windows 10 VM/Nvidia 1050TI**.
 
 ## Hardware and software I use for calibration
 
@@ -51,7 +51,7 @@ In *Correction*, I chose the suitable correction for [my monitor](https://www.di
 
 ![DisplayCAL Calibration tab](/img/displaycal-2.jpg) 
 
-I chose **6500K**, **90cd/m<sup>2</sup>** and **Gamma 2.2**. *(See the section below regarding the calibration targets)*, while I set the claibration speed to **Low**.
+I chose **6500K**, **90cd/m<sup>2</sup>** and **Gamma 2.2**. *(See the section below regarding the calibration targets)*, while I set the calibration speed to **Low**.
 
 ### Profiling
 
@@ -60,7 +60,7 @@ I chose **6500K**, **90cd/m<sup>2</sup>** and **Gamma 2.2**. *(See the section b
 
 I set the profile quality to **High** and chose the **Auto-Optimized** (175 patches) testchart. 
 
-**Note:** I' ve done tests with up to 3400+ patches and I did not see any noticeable difference comparing to Auto-optimized, so I stuck with the latter as calibration takes much less time with it(1 and 1/2 comparing to 4 hours).
+**Note:** I've done tests with up to 3400+ patches and I did not observe any noticeable difference comparing to Auto-optimized, so I stuck with the latter as calibration takes much less time with it(1 and 1/2 comparing to 4 hours).
 
 
 ### Verification
@@ -90,7 +90,7 @@ After approx 1.5 hour, the profile is ready:
 
 ![DisplayCAL Install Profile](/img/displaycal-5.jpg)
 
-### Profile installattion
+### Profile installation
 
 - On windows I just press **Install profile** and the profile is ready to be used with all the applications that support color management.
 

@@ -7,7 +7,7 @@ tags = ["ebook", "kindle", "fonts"]
 
 Happy new year everyone!
 
-During the Christmas holidays, I spent some time trying to find an alternative to Bookerly font which I have been using on my Kindle Paperwhite since day one.
+During the Christmas holidays, I spent some time trying to find an alternative to Bookerly font, which I have been using on my Kindle Paperwhite since day one.
 
 After trying a lot of different alternatives, I ended up with the following ones, which you can download and test them yourself:
 
@@ -19,7 +19,7 @@ After trying a lot of different alternatives, I ended up with the following ones
 
 If you use a Kindle, just unpack the zip, and put the fonts inside  the  **"fonts"** folder.
 
-If you don't have a Kindle and want to use the best kindle font on your ebook reader or app, you can get it using the following link:
+If you don't have a Kindle and want to use the best kindle font on your e-book reader or app, you can get it using the following link:
 
 - [Bookerly](/download/fonts/Bookerly.zip) *([source](https://aur.archlinux.org/packages/ttf-bookerly/))*
 

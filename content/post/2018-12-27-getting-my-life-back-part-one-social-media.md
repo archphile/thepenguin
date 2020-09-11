@@ -9,28 +9,28 @@ tags = ["social media"]
 
 Back in late 2017, during my first walks out as a completely new photographer, I had decided that whenever I found something really interesting, I would immediately transfer it from my camera to my smartphone and publish it on **Instagram**.
 
-Some of my photos were really successful, while others did not get the "likes" I believed they would. That was the first time I caught myself wanting to delete content that my (few) followers - mainly friends of mine - did not like.
+Some of my photos were really successful, while others did not get the "likes" I believed they would. That was the first time I caught myself deleting the content that my (few) followers - mainly friends of mine - didn't like.
 
 This was **a really sad realization** for me: although I was an amateur photographer, my creativity was "being instructed" by my social media followers. Instead of learning how to shoot right and **make art** through photography, I had already decided that getting approval from my followers was far more important for me.
 
 
-So in June of 2018, I decided that **Instagram** was harming the first real effort in my life on being creative and for this reason it had to be removed from my daily habits. As a result, my **Instagram** account was the first one to delete (after I had deleted all my content). 
+So in June of 2018, I decided that **Instagram** was harming the first real effort in my life on being creative and for this reason it had to be removed from my daily habits. As a result, my **Instagram** account was the first one to delete (after patiently deleting all my content). 
 
 ## Twitter
 
-This decision had a deep impact on me, so I started wondering what was the actual reason I had a **Twitter** account. I always told myself that I used **Twitter** in order to get informed about what is happening in the world, but that was a lie. The reason I used twitter was **in order to tweet**, to express my opinion (that nobody should give a fuck about) about everything, being forced from the maximum of the 140 characters to write in a "smartypants" way **and get retweets**.
+This decision had a deep impact on me, so I started wondering what was the actual reason I had a **Twitter** account. I always told myself that I used **Twitter** in order to get informed about what is happening in the world, but that was a lie. The reason I used twitter was in order to express my opinion (that nobody should give a fuck about) about everything, being forced from the maximum of the 140 characters to write in a "smartypants" way so that I **get re-tweets**.
 
-I started reading all my past tweets and I felt sad. That was not me, but an impersonation of myself **seeking the dopamine that comes after a retweet**. Initially I decided to delete all my tweets and stay there only to follow accounts from news agencies etc., but I knew it was not enough. As a result I deleted my **Twitter** account.
+I started reading all my past tweets and I felt sad. That was not me, but an impersonation of myself **seeking the dopamine that comes after the "reward" of a re-tweet**. Initially I decided to delete all my tweets and stay there only to follow accounts from news agencies etc., but I knew it was not enough. As a result I deleted my **Twitter** account.
 
 ## Facebook
 
-My last remaining account was that of **Facebook**. Although I had lost my interest on Facebook long ago, I kept using it whenever I felt bored during the day, sometimes resulting in heavy use. In addition to that **Facebook Messenger** has become one of the most popular means of communication, and although I really did not like it at all (I had major privacy concerns), I kept using it because it was the easiest way to chat with almost everyone I know. However, as my skepticism about social media was massively increasing, started considering deleting my account. I decided to do the same I did with **Twitter**, so I started to read my content from the past.
+My last remaining account was that of **Facebook**. Although I had lost my interest on Facebook long ago, I kept using it whenever I felt bored during the day, sometimes resulting in heavy use. In addition to that **Facebook Messenger** has become one of the most popular means of communication, and although I really didn't like it at all (I had many privacy concerns), I kept using it because it was the easiest way to chat with almost everyone I know. However, as my skepticism about social media was massively increasing, I started considering deleting my account. I decided to do the same I did with **Twitter**, so I started to read my content from the past.
 
-I was a member of **Facebook** for more than nine years, so reading posts of my much younger self was a mixture of sad and funny feelings. One thing was for sure: that guy wasn't me and all these postings were 100% irrelevant to my current self. Apart from that, I started thinking of my past **Facebook** use. I remembered times I decided to delete content that got less likes than expected, or times I felt really nice because of a "successful" post. One word came again to mind: **dopamine**.
+I was a member of **Facebook** for more than nine years, so reading posts of my much younger self was a mixture of sad and funny feelings. One thing was for sure: that guy wasn't me and all these posts were 100% irrelevant to my current self. Apart from that, I started thinking of my past **Facebook** use. I remembered times I decided to delete content that got less likes than expected, or times I felt really nice because of a "successful" post. One word came again to mind: **dopamine**.
 
-The days passed and I still hadn't decided what to do with this account, always telling to myself that not having a **Facebook**  account would stop communication with people I cared about. And then I asked myself "how many people will you lose if you stop using Facebook?". The reply was "ONE". So, I contacted this very old friend of mine, I informed her that she could not longer reach me over **Facebook** and apart from phone calls, she could either use Viber or Whatsapp to chat with me.
+The days passed and I still hadn't decided what to do with this account, always telling to myself that not having a **Facebook**  account would affect communication with people I cared about. And then I asked myself "how many people will you lose if you stop using Facebook?". The reply was "ONE". So, I contacted this very old friend of mine, I informed her that she could not longer reach me over **Facebook** and apart from phone calls, she could either use Viber or Whatsapp to chat with me.
 
-To cut the long story short, I decided again to proceed with the usual step and I deleted my **Facebook** account along with my **Facebook messenger** one.
+To cut the long story short, I decided once again to proceed with the usual step and I deleted my **Facebook** account along with my **Facebook messenger** one.
 
 
 ## Living without social media

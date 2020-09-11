@@ -26,6 +26,7 @@ I suggest you to at least have a look at these articles in order to understand t
 For my contacts on Android, I used to sync using Google Contacts for years. After setting up [Nextcloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}}), I decided to stop letting Google know who I know and self-host them. For this reason I now use:
 
 - [Nextcloud Contacts](https://github.com/nextcloud/contacts#readme) to which I imported/edited/etc my exported Gmail contacts
+
 - [DAVx⁵](https://f-droid.org/en/packages/at.bitfire.davdroid/) to sync contacts between my Android Smartphone and my [Nextcloud server]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux" >}})
 
 
@@ -45,7 +46,7 @@ and
 - [Floccus addon](https://addons.mozilla.org/el/firefox/addon/floccus/) for Firefox.
 
 
-For the record, I don't sync all my bookmarks. I just use the above combo to create a "shared folder" of bookmakrs between my Desktop PC and the smartphone.
+For the record, I don't sync all my bookmarks. I just use the above combo to create a "shared folder" of bookmarks between my Desktop PC and the smartphone.
 
 
 
@@ -109,4 +110,4 @@ This way I ensure (as much as I can) that no third party will have access on the
 
 However, it doesn't mean that self-hosting this information provides better security. 
 
-A Nextcloud server requires a linux machine with various services running on it and one **should take care of its configuration** to make it as secure as possible.
+A Nextcloud server requires a Linux machine with various services running on it and one **should take care of its configuration** to make it as secure as possible.

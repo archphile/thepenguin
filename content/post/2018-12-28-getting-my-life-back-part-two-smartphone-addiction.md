@@ -99,7 +99,7 @@ Not having social media, going out with friends/family with a dumb phone etc. al
 
 - Not to "advertise" or discuss about my new habits if I am not asked. I am not a hipster and I don't follow any trend. I am just a guy struggling with first-world addictions.
 
-- Not to take what others say seriously. Some of them say I am a **"Luddite"** or a **victim of the ""Minimalism" trend**, others say I am **simply obsessive**. I just don't care about anything I hear about my "new self" (if we can call this a self - but that's a Bhuddist topic to be analyzed on another post :P).
+- Not to take what others say seriously. Some of them say I am a **"Luddite"** or a **victim of the ""Minimalism" trend**, others say I am **simply obsessive**. I just don't care about anything I hear about my "new self" (if we can call this a self - but that's a Buddhist topic to be analyzed on another post :P).
 
 
 ## Conclusion

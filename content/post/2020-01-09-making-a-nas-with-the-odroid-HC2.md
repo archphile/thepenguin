@@ -7,15 +7,15 @@ tags = ["NAS", "Odroid HC2", "Openmediavault"]
 
 Last a year I decided to upgrade my DIY USB NAS (you can read my journey so far [here]({{< ref "2018-05-30-a-poors-man-diy-usb-nas-part-1.md" >}}) and [here]({{< ref "2018-05-31-a-poors-man-diy-usb-nas-part-2.md" >}})) and for this reason I bought an [Odroid HC2](https://www.hardkernel.com/shop/odroid-hc2-home-cloud-two/).
 
-This would be a big upgrade for me, because for the first time I would be able to connect my **WD Red 3T** via SATA and not via USB.
+This would be a big upgrade for me, as for the first time I would be able to connect my **WD Red 3T** via SATA and not via USB.
 
-So I bought one and let's see how it went...
+So, I bought one and let's see below how it went...
 
 ![My HC2](/img/hc2.jpg)
 
 ## The hardware
 
-Odroid C2 is a nice tiny board made specifically in order to serve as a NAS.
+Odroid C2 is a nice tiny board, made specifically in order to serve as a NAS.
 
 Some of its key features are:
 
@@ -28,13 +28,13 @@ Some of its key features are:
 * Size : 197 x 115 x 42 mm approx.(Aluminium cooling frame size)
 * Linux server OS images based on modern Kernel 4.14 LTS
 
-When I received it, I plugged in my WD Red on the **SATA-3** port and then I started thinking which OS I would use for my NAS.
+When I received it, I plugged in my WD Red on the **SATA-3** port and then I started examining which OS I would use for my NAS.
 
 ## The software
 
-If you read this blog you would have already understood that apart from being a geek, I am also a control freak. I need to know what exactly is happening with regards to the OS, processes etc..
+If you are a reader of this blog, you will have already understood that apart from being a geek, I am a control freak too. I need to know what exactly is going on with regards to the OS, processes etc..
 
-I would usually install [ArchlinuxARM](https://archlinuxarm.org/), samba, etc, and create a 100% tailored OS for my needs. This time I decided to choose a different route and it proved to be the right choice..
+Normally, I would install [ArchlinuxARM](https://archlinuxarm.org/), samba, etc, to create a 100% tailored OS for my needs. This time I decided to choose a different route and it proved to be the right choice..
 
 ### Openmediavault
 
@@ -74,14 +74,14 @@ In [this post]({{< ref "2018-05-29-pi-hole-on-an-odroid-c1-plus-my-experience-so
 
 After finishing with the configuration of the NAS, I decided to make HC2 a Pi-hole box too so that I could get rid of the C1+.
 
-In order to access the web interface I had to modify the web port of lighttpd to 8080. The URL for the pi-hole admin interface became:
+In order to access the web interface I had to modify the web port of Lighttpd to 8080. The URL for the pi-hole admin interface became:
 
 	xxx.xxx.xxx.xxx:8080/admin
 
 
 ## Summary
 
-- The HC2 is a huge upgrade when compared to my previous USB DIY NASes.
+- The HC2 is a huge upgrade when compared to my previous USB DIY NAS.
 
 - Openmediavault is a really nice piece of software. 
 
