@@ -1,147 +1,45 @@
-# Set base URL for site - should end with a trailing slash
+
 baseURL = "https://thepenguin.eu"
 
-theme = "slick"
+# The name of this wonderful theme ;-).
+theme = 'hugo-bearblog'
 
-# Site title (not shown if commented out or set to false)
-# (If you disable this, add some link on the index page inside menu.main,
-#  otherwise your visitors will get confused and lost...)
+# Basic metadata configuration for your blog.
 title = "The Penguin"
+author = "Mike"
+copyright = "Copyleft 2017-2020, Jane Doe."
+languageCode = "en-US"
 
-languageCode = "en"
-defaultContentLanguage = "en-us"
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
 
-# Your Google analytics code.
-#googleAnalytics = "UA-107164874-1"
-
-
-# Will appear below the footer links with a © sign and the current year
-#copyright = "Some Author — All rights reserved."
-
-[markup]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-            unsafe = true               # Allow html (needed for some shortcodes)
-    [markup.highlight]
-        codeFences = true               # Enable highlighting inside codefences
-        guessSyntax = true              # Highlight code without language tag
-        noClasses = false               # Use the theme's style sheet
-
-canonifyURLs = true
-preserveTaxonomyNames = true
-
-# Configure pagination
-paginate = 10
-paginatePath = "page"
-
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = ":filename"
+  tags = "/blog/:slug"
 
 [params]
-    # Site subtitle (not shown if commented out or set to false)
-    subtitle = "#linux #audio #photography #e-ink #productivity"
+  # The "description" of your website. This is used in the meta data of your generated html.
+  description = "The Penguin - a blog about #linux #audio #photography #e-ink #productivity"
 
-    # Site description
-    description = "my space on the web"
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
+  favicon = "images/favicon.png"
 
-    # Favicon file (relative to baseURL - place below static or assets folder)
-    favicon = "favicon.png"
-    # Custom css file (relative to baseURL - place below static or assets folder)
-    css = "custom.css"
+  # These "images" are used for the structured data templates. This will show up, when
+  # services like Twitter or Slack want to generate a preview of a link to your site.
+  # See https://gohugo.io/templates/internal#twitter-cards and
+  # https://gohugo.io/templates/internal#open-graph.
+  images = ["img/tp.png"]
 
-    # Define formatting of dates
-    # (optional, falls back to RFC822 format if not set)
-    # For reference to date and time formatting, see:
-    # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-    # Make sure to set showMetaDates to true to see any dates
-    dateFmt = "Mon, 02 Jan 2006"
+  # Another "title" :-). This one is used as the site_name on the Hugo's internal
+  # opengraph structured data template.
+  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+  title = "The Penguin - a blog about #linux #audio #photography #e-ink #productivity"
 
-    # Customize the text of the 404 page here
-    errorPageText = "There's nothing to see here, please move along!"
+  # This theme will, by default, inject a made-with-line at the bottom of the page.
+  # You can turn it off, but we would really appreciate if you don’t :-).
+  hideMadeWithLine = true
 
-    # Header with title/subtitle can be disabled here.
-    # (If you disable this, add some link on the index page inside menu.main,
-    #  otherwise your visitors will get confused and lost...)
-    showNavHeader = true
-
-    # Decide if only summaries are shown on the main page or the full content
-    showFullContent = false
-
-    # If false no pagination is shown when there is nothing to paginate
-    showEmptyPagination = true
-
-    # If false the dates for the posts are not shown
-    showMetaDates = true
-
-    # If false the taxonomy links for the posts are not shown
-    showMetaLinks = true
-
-    # Uses Hugo internal templates if set
-    opengraph = false
-    schema = false
-    twitter_cards = false
-
-
-# Define all supported taxonomies (add series to the default)
-[taxonomies]
-    tags = "tags"
-    categories = "categories"
-    series = "series"
-
-
-[author]
-    name = "Mike G."
-    email = "null@mgcloud.eu"
-
-
-[services.rss]
-    # limit the length of the rss feed (default: unlimited)
-    limit = 0
-
-
-
-[permalinks]
-  post = ":filename"
-
-
-
-[[menu.main]]
-    name = "home"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "categories"
-    url = "/categories/"
-    weight = 2
-
-[[menu.main]]
-    name = "tags"
-    url = "/tags/"
-    weight = 3
-
-[[menu.main]]
-    name = "about"
-    url = "/about/"
-    weight = 4
-    
-    # Define the entries for post metadata
-    # Identifiers should match with the taxonomy entries
-    [[menu.meta]]
-        identifier = "categories"
-        name = "Categories"
-        weight = 1
-    [[menu.meta]]
-        identifier = "series"
-        name = "Series"
-        weight = 2
-    [[menu.meta]]
-        identifier = "tags"
-        name = "Tags"
-        weight = 3
-
-
-    # Add some footer links to your likings
-    [[menu.footer]]
-        name = "GitHub"
-        title = "Archphile Github"
-        url = "https://github.com/archphile"
-        weight = 1
