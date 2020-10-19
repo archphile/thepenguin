@@ -1,7 +1,7 @@
 +++
 title = "Making a NAS with the Odroid HC2"
 date =  "2020-01-09"
-categories = ["General"]
+categories = ["Linux DIY"]
 tags = ["NAS", "Odroid HC2", "Openmediavault"]
 +++
 

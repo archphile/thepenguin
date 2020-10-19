@@ -2,7 +2,7 @@
 title = "Fuji X-T20 Eterna film simulation or Capture One"
 date =  "2018-09-25"
 categories = ["Photography"]
-tags = ["Fuji", "x-t20","film", "eterna", "capture one"]
+tags = ["Fuji", "x-t20","film", "eterna", "capture one", "photography"]
 +++
 
 **Eterna**, is a film simulation, introduced by Fuji along with the release of their camera **Fuji X-H1**.

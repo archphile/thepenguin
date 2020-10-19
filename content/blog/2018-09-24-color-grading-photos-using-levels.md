@@ -2,7 +2,7 @@
 title = "Color grading photos using levels adjustments"
 date =  "2018-09-24"
 categories = ["Photography"]
-tags = ["capture one", "Ted Forbes"]
+tags = ["capture one", "Ted Forbes", "photography"]
 +++
 
 [The art of photography](https://www.youtube.com/channel/UC7T8roVtC_3afWKTOGtLlBA) is one of my favourite photography youtube channels. It's a perfect balance between gear, composition and editing.

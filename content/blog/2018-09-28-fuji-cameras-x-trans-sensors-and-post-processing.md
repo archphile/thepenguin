@@ -2,7 +2,7 @@
 title = "Fuji cameras, x-trans sensors and RAW processing"
 date =  "2018-09-28"
 categories = ["Photography"]
-tags = ["x-trans", "fuji", "demosaicing"]
+tags = ["x-trans", "fuji", "demosaicing", "photography"]
 +++
 
 

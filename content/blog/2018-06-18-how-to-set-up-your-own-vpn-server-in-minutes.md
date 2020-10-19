@@ -2,7 +2,7 @@
 title = "How to set up your own VPN (Openvpn) server in minutes"
 date =  "2018-06-18"
 thumbnail = "/img/openvpn.jpg"
-categories = ["General"]
+categories = ["Linux DIY"]
 tags = ["vpn", "openvpn", "archlinux", "vps"]
 +++
 

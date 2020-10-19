@@ -1,7 +1,7 @@
 +++
 title = "Getting my life back, Part I - Social Media"
 date =  "2018-12-27"
-categories = ["General"]
+categories = ["productivity"]
 tags = ["social media"]
 +++
 

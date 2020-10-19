@@ -2,7 +2,7 @@
 title = "A (not so) poor man's DIY USB NAS part II (DD-WRT edition)"
 date = "2018-05-31"
 thumbnail = "/img/ddwrt.jpg"
-categories = ["General"]
+categories = ["Linux DIY"]
 tags = ["nas", "usb disk", "samba", "ddwrt", "Netgear R7000"]
 +++
 

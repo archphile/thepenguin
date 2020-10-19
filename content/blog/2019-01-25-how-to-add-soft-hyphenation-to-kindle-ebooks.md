@@ -1,7 +1,7 @@
 +++
 title = "How to add soft hyphenation on Kindle e-books"
 date =  "2019-01-25"
-categories = ["General"]
+categories = ["E-ink"]
 tags = ["kindle", "hyphenation", "calibre", "Hyphenate This!"]
 +++
 

@@ -3,7 +3,7 @@ title = "Fuji X-T20 film simulation packs for Darktable and RawTherapee"
 date = "2018-01-21"
 thumbnail = "/img/fuji-provia.jpg"
 categories = ["Photography"]
-tags = ["Fuji", "x-t20", "film", "darktable", "rawtherapee"]
+tags = ["Fuji", "x-t20", "film", "darktable", "rawtherapee", "photography"]
 +++
 
 In my previous [post about photography]({{< ref "2018-01-16-fuji-xt20-film-simulation-pack-for-capture-one.md" >}}), I showed you how to get **Fuji X-T20** film simulations for **Capture One**. In this one I will show you the same but for [Darktable](https://www.darktable.org/) and [RawTherapee](http://rawtherapee.com/). Please note that all these styles are not only compliant with **X-T20** but they can be used with all **X-TRANS III** cameras.

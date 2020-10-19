@@ -1,7 +1,7 @@
 +++
 title = "Getting my life back, Part II - Smartphone Addiction"
 date =  "2018-12-28"
-categories = ["General"]
+categories = ["Productivity"]
 tags = ["social media", "smartphone"]
 +++
 

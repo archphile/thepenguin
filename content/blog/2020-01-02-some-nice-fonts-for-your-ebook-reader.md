@@ -1,7 +1,7 @@
 +++
 title = "A nice font collection for your e-book reader"
 date =  "2020-01-02"
-categories = ["General"]
+categories = ["E-ink"]
 tags = ["ebook", "kindle", "fonts"]
 +++
 

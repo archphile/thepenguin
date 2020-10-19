@@ -1,7 +1,7 @@
 +++
 title = "Getting my life back, Part III - Self-hosting my personal data (contacts, bookmarks, passwords, calendar, notes, tasks)"
 date =  "2018-12-29"
-categories = ["General"]
+categories = ["Productivity"]
 tags = ["contact management", "password management", "calendar", "Nextcloud", "GTD", "Simpletask", "Notes", "Keepass2android", "DAVdroid"]
 +++
 

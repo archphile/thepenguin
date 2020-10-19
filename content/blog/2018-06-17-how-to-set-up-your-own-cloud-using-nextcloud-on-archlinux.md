@@ -2,7 +2,7 @@
 title = "How to set up your own cloud using Nextcloud on Archlinux"
 date =  "2018-06-17"
 thumbnail = "/img/nextcloud.jpg"
-categories = ["General"]
+categories = ["Linux DIY"]
 tags = ["nextcloud", "archlinux", "cloud", "scaleway", "nginx", "vps"]
 +++
 

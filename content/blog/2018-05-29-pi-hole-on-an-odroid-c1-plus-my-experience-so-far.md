@@ -2,7 +2,7 @@
 title = "Using Pi-hole on an Odroid C1+ - My experience so far"
 date = "2018-05-29"
 thumbnail = "/img/pihole.jpg"
-categories = ["General"]
+categories = ["Linux DIY"]
 tags = ["pi-hole", "odroid c1+","adblock"]
 +++
 

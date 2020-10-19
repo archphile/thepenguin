@@ -3,7 +3,7 @@ title = "Fuji X-T20 film simulation pack for Capture One"
 date =  "2018-01-16"
 thumbnail = "/img/fuji-velvia.jpg"
 categories = ["Photography"]
-tags = ["Fuji", "x-t20", "film", "capture one"]
+tags = ["Fuji", "x-t20", "film", "capture one", "photography"]
 +++
 
 My journey in digital photograpy started 5 months ago when I bought a [Sony A6000]({{< ref "2017-09-28-how-to-properly-set-up-your-sony-a6000.md" >}}). After a lot of searching online trying to find the best Linux RAW editors, I ended up starting learning how to use [Darktable](https://www.darktable.org/)  and [Raw Therapee](http://rawtherapee.com/).

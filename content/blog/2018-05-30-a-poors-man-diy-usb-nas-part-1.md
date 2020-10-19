@@ -2,7 +2,7 @@
 title = "A poor man's DIY USB NAS part I"
 date = "2018-05-30"
 thumbnail = "/img/samba.jpg"
-categories = ["General"]
+categories = ["Linux DIY"]
 tags = ["nas", "usb disk", "samba", "archlinuxarm"]
 +++
 

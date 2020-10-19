@@ -2,7 +2,7 @@
 title = "How to use a simple text based to-do list to get things done"
 date = "2018-06-06"
 thumbnail = "/img/todotxt.jpg"
-categories = ["General"]
+categories = ["Productivity"]
 tags = ["todotxt", "dropbox", "simpletask", "qtodotxt", "todotxt-machine", "gtd"]
 +++
 
