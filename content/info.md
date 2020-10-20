@@ -15,4 +15,4 @@ Thepenguin.eu was built using [hugo](https://gohugo.io) and [hugo bearblog](http
 &nbsp;
 ### content licensing
 
-The content of this blog is published under the terms of [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The texts of this blog are published under the terms of [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
