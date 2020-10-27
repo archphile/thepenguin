@@ -6,7 +6,7 @@ categories = ["Linux DIY"]
 tags = ["vpn", "openvpn", "archlinux", "vps"]
 +++
 
-After [setting up my own cloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux.md" >}}) on a scaleway VPS, I decided that it would be a good idea if I also set it up as a **VPN** server.
+After [setting up my own cloud]({{< ref "2018-06-17-how-to-set-up-your-own-cloud-using-nextcloud-on-archlinux.md" >}}) on a Scaleway VPS, I decided that it would be a good idea if I also set it up as a **VPN** server.
 
 The first time I needed a VPN server, was when after years working from home, I got an office based job. I wanted some privacy with regards to my smartphone browsing (using their wireless connection), so I found **this amazing script**:
 
@@ -29,15 +29,14 @@ I decided to give it a try:
 	wget https://raw.githubusercontent.com/Angristan/OpenVPN-install/master/openvpn-install.sh
 	chmod +x openvpn-install.sh
 	./openvpn-install.sh
-	
+
 
 I chose a **custom port**, **Opendns** DNS servers and left the rest using the **default** settings.
 
 After less than 1 minute, my [Openvpn](https://openvpn.net/) server was ready to use!
 
 
-&nbsp;
-### Summary
+## Summary
 
 If you don't have the time to spend on how to learn to set up your own VPN server and you have to trust someone else's knowledge, then this script is for you!
 

@@ -6,9 +6,9 @@ categories = ["Photography"]
 tags = ["photography", "darktable"]
 +++
 
-Being completely new to [Darktable](http://www.darktable.org/) photo RAW editor, I've done a lot of googling in order to find available resources for this really nice piece of software.
+Being completely new to [Darktable](http://www.darktable.org/) photo RAW editor, I've done a lot of googling in order to find available resources for this nice piece of software.
 
-I recently found a very interesting [github page](https://github.com/t3mujin/t3mujinpack) with presets designed to emulate various well known fim cameras of the past. Based on the information given, the availeable film emulations are the following:
+I recently found a very interesting [github page](https://github.com/t3mujin/t3mujinpack) with presets designed to emulate various well known fim cameras of the past. Based on the information given, the available film emulations are the following:
 
 #### Black and White films
 * AGFA APX 100
@@ -59,7 +59,7 @@ I recently found a very interesting [github page](https://github.com/t3mujin/t3m
 * Kodak Kodakchrome 25
 * Kodak Kodakchrome 64
 
-In order to get these styles you can clone the github repository, or: 
+In order to get these styles you can clone the Github repository, or: 
 
 wget the file:
 

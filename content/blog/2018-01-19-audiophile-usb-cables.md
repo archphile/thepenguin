@@ -6,13 +6,13 @@ categories = ["Audio"]
 tags = ["usb", "snakeoil"]
 +++
 
-Reading a forum thread regarding "audiophile" **USB cables** for computer audio, I rememembered a really nice [head-fi.org](https://www.head-fi.org/threads/on-usb-cables-and-controller-transfer-modes-a-series-of-questions-to-replies-from-usb-org.565791/) topic, where a forum member named **svyr** decided to send some questions about **usb and audio** to [usb.org](http://www.usb.org).
+Reading a forum thread regarding "audiophile" **USB cables** for computer audio, I remembered a really nice [head-fi.org](https://www.head-fi.org/threads/on-usb-cables-and-controller-transfer-modes-a-series-of-questions-to-replies-from-usb-org.565791/) topic, where a forum member named **svyr** decided to send some questions about **USB and audio** to [usb.org](http://www.usb.org).
 
 ![snakeoil](/img/snakeoil.jpg  "snakeoil")
 
 To his surprise, he got a reply and below I will quote the whole email conversation **without any further comment** from my side:
 
-### Email to usb.org
+## Email to usb.org
 
 	From: svyr [mailto:xf_mad:gmail.com]
 	Sent: Wednesday, August 03, 2011 4:27 AM
@@ -50,7 +50,7 @@ To his surprise, he got a reply and below I will quote the whole email conversat
 	Best Regards,
 	[svyr]
 
-### Reply
+## Reply
 
 	[quote name="TechAdmin [AT] usb.org"]
 	to svyr

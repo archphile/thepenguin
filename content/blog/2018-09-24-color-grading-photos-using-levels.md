@@ -6,6 +6,7 @@ tags = ["capture one", "Ted Forbes", "photography"]
 +++
 
 [The art of photography](https://www.youtube.com/channel/UC7T8roVtC_3afWKTOGtLlBA) is one of my favourite photography youtube channels. It's a perfect balance between gear, composition and editing.
+
 [Ted Forbes](http://tedforbes.com/), the man behind this channel, has a deep knowledge  of all aspects of photography and I always enjoy watching his latest videos.
 Yesterday, I had a look at his channel and I found a relatively new video regarding the **level tool** of [Capture One](https://www.phaseone.com/Products/Software/Capture-One-Pro/Highlights.aspx):  
 

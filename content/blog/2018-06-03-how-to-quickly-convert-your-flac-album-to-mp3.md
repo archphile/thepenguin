@@ -6,20 +6,22 @@ categories = ["Audio"]
 tags = ["linux audio", "flac", "mp3", "whatmp3"]
 +++
 
-Even though all my music library is 99,99% FLACs, there are times when I need a quick FLAC --> MP3 conversion (for example to put music on the smartphone for running purposes)..
+Even though all my music library is 99,99% flacs, there are times when I need a quick **.flac to .mp3** conversion (for example to put music on the smartphone for running purposes).
 
-The best and quickest tool I have found so far, is [whatmp3](https://github.com/RecursiveForest/whatmp3), that uses [lame](http://lame.sourceforge.net/) to do the conversion.
+The best and tool I have found so far, is [whatmp3](https://github.com/RecursiveForest/whatmp3), that uses [lame](http://lame.sourceforge.net/) to do the conversion.
 
 In order to install it in Archlinux, I got it from [AUR](https://aur.archlinux.org/):
 
 	yaourt -S whatmp3
 	
+
 As a last step, I (re-)installed lame :
 
 	pacman -S lame
 	
 	
-The use of whatmp3 is pretty easy:
+
+The use of **whatmp3** is pretty easy:
 
 	whatmp3 --320 your_flac_album_dir
 	
@@ -57,5 +59,5 @@ When **whatmp3** finishes with the **V0** conversion of this album, the output d
 **Note:** whatmp3 can do many more than a FLAC to mp3 conversion. Just install and type:
 
 	whatmp3 --help
-	
+
 to see what you can do with this nice tool!

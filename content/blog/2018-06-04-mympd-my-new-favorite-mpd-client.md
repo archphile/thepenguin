@@ -5,9 +5,10 @@ thumbnail = "/img/mympd.jpg"
 categories = ["Audio"]
 tags = ["linux audio", "MPD", "myMPD", "ympd"]
 +++
-I hate bloated software. This is the reason I use [Archlinux](https://archlinux.org)  with [i3wm](https://i3wm.org/) or I root my smartphones to remove unneeded applications and this is the exact same reason I chose [ympd](https://github.com/notandy/ympd)  to be the default [MPD](https://www.musicpd.org)  client of [Archphile](http://archphile.org).
 
-**ympd** doesn't offer many goodies. It does one thing (file browsing mode) and it does it right, while its software dependencies are almost zero, comparing to other web based clients that need a dedicated webserver or/and interpreter..
+I hate bloated software. This is the reason I use [Archlinux](https://archlinux.org)  with [i3wm](https://i3wm.org/) or I root my smartphones to remove unneeded applications and this is the exact same reason I chose [ympd](https://github.com/notandy/ympd) to be the default [MPD](https://www.musicpd.org) client of [Archphile](http://archphile.org).
+
+**ympd** doesn't offer many goodies. It does one thing (file browsing mode) and it does it right, while its software dependencies are almost zero, comparing to other web based clients that need a dedicated web server or/and interpreter..
 
 **ympd** drew the attention of various coders that forked this project, [bugfixed it](https://github.com/SuperBFG7/ympd)  or created new projects based on that.
 
@@ -54,10 +55,10 @@ But let's stop with words and see some action:
 
 ![myMPD settings](/img/mympd-7.jpg  "myMPD")
 
-&nbsp;
-### What I really like:
 
-1. The support of local cover art and the fact that each user can choose the cover file name they use (ex. I modified myMPD settings to always show Folder.jpg found on each of my library albums)
+## What I really like:
+
+1. The support of local cover art and the fact that each user can choose the cover file name they use (ex. I modified myMPD settings to always show **Folder.jpg** found on each of my library albums)
 
 2. The new search functions: It's really nice to be able to search by tag. Especially when searching by album, the user can load a whole album with the use of one button!
 
@@ -65,17 +66,16 @@ But let's stop with words and see some action:
 
 4. The new look: The new layout is fantastic, although the colors aren't my favorites (who cares anyway!).
 
-&nbsp;
-### What I don't like:
+
+## What I don't like:
 
 1. I didn't like all these extra crossfading, replaygain and mixramp options. I completely understand that there's people using them, so they have to be there (although I am not sure how many people even knew that they could use mixramp!).
 
 2. The states of the tabs are currently not saved. I am sure that Jcorporation will do his magic very soon and fix that.
 
-&nbsp;
-### Summary:
+## Summary:
 
-[myMPD](https://github.com/jcorporation/myMPD) is a **fantastic** new piece of software.  As long as development continues with **simplicity in mind**  (and of course low resource usage!), I am sure that **myMPD** will set new standards on MPD clients.
+[myMPD](https://github.com/jcorporation/myMPD) is a **fantastic** new piece of software.  As long as development continues with **simplicity in mind**  (and of course low resource usage!), I'm sure that **myMPD** will set new standards on MPD clients.
  
  
 **Note 1:** It's obvious that next **Archphile** will include the option to use [myMPD](https://github.com/jcorporation/myMPD) (and why not make it the default one if it is stable enough for everyday use)
@@ -84,4 +84,4 @@ But let's stop with words and see some action:
 
 **Note 3:** [myMPD](https://github.com/jcorporation/myMPD) is a really new software. If you test it and something is not working the way it should (or you want), don't blame the project! Give it some time and, the most important, [feedback](https://github.com/jcorporation/myMPD/issues)!
 
-**PS.** *The credit for finding this nice software goes to my very good friend Emilios, who, for the last 5 months,  has been heavily obsessed with testing almost all ympd forks!*
+**PS.** *The credit for finding this nice software goes to my good friend Emilios, who, for the last 5 months,  has been heavily obsessed with testing almost all ympd forks!*

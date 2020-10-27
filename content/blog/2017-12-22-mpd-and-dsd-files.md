@@ -7,9 +7,9 @@ tags = ["linux audio", "dsd", "mpd"]
 +++
 
 DSD, although a very old and failed technology, is again one of the hottest trends in computer audio. Below you will find a quick guide for [MPD](https://www.musicpd.org) (Music Player Daemon) that will cover most of your needs:
-&nbsp;
-### MPD and DSD with DoP
-&nbsp;
+
+## MPD and DSD with DoP
+
 Assuming that your DAC supports the **DoP** protocol, the only you need to do is to add the following line in **audio_output** section of **mpd.conf**:
 
 	dop       "yes"
@@ -49,10 +49,10 @@ The output is:
 
 **DoP** uses **PCM** and this is the reason that the format is **S24_LE**  and the sampling rate is **176400**. 
 
-&nbsp;
-### MPD and Native DSD
-&nbsp;
-Native DSD is a little bit more complicated. IF the DAC supports DSD and if the Linux Kernel supports your DAC in Native DSD mode, the only thing you need to do is remove the dop option from **audio_output** section of **mpd.conf**
+
+## MPD and Native DSD
+
+Native DSD is a little bit more complicated. IF the DAC supports DSD and if the Linux Kernel supports your DAC in Native DSD mode, the only thing you need to do is remove the **DoP option** from **audio_output** section of **mpd.conf**
 
 Below you can see an example of this section:
 
@@ -66,7 +66,7 @@ Below you can see an example of this section:
 	auto_format     "no"
 	}
 
-If everything is ok, then you will see the following output if you run the test command while listening to a **DSD 64** file:
+If everything is OK, then you will see the following output if you run the test command while listening to a **DSD 64** file:
 
 	cat /proc/asound/card*/pcm*p/sub*/hw_params
 
@@ -81,8 +81,7 @@ If everything is ok, then you will see the following output if you run the test 
 
 The format now has changed and it's **DSD_U32_BE** and the sampling rate is **88200**.
 
-
-If your DAC does not support Native DSD (like my Aune S16 below) or if it supports but Linux Kernel isn't, when you remove the DoP option, MPD converts DSD to PCM on the fly and the test command has an output similar to the one below:
+If your DAC does not support **Native DSD** (like my **Aune S16** below) or if it supports but Linux Kernel isn't, when you remove the **DoP** option, MPD **converts DSD to PCM** on the fly and the test command has an output similar to the one below:
 
 	access: RW_INTERLEAVED
 	format: S32_LE
@@ -94,24 +93,24 @@ If your DAC does not support Native DSD (like my Aune S16 below) or if it suppor
 
 The format is PCM again (**S32_LE**) and the sampling rate is the maximum the receiver and DAC support, **352800**.
 
-In gerneral, **Native DSD** support is limited, so if your DAC supports DoP, this is the best way to listen to your DSD files at the moment. DoP is an old and mature protocol and has no audible differences when compared to Native DSD.
+In general, **Native DSD** support is limited, so if your DAC supports **DoP**, this is the best way to listen to your DSD files at the moment. **DoP** is an old and mature protocol and has no audible differences when compared to **Native DSD**.
 
 If you want to have a look at Linux kernel code and see the supported Native DSD devices, you can follow the link below:
 
 [https://github.com/torvalds/linux/blob/master/sound/usb/quirks.c](https://github.com/torvalds/linux/blob/master/sound/usb/quirks.c) 
 
-Please note that every Linux distro uses a different version of Linux kernel. In addition, if you use an embedded board like Raspberry Pi, Odroid, Udoo, you usually don't use the mainline kernel and in many cases your version is very old.
+Please note that every Linux distro uses a different version of Linux kernel. In addition, if you use an embedded board like **Raspberry Pi**, **Odroid**, **Udoo**, you usually don't use the mainline kernel and in many cases the kernel version is very old.
 
-&nbsp;
-### MPD and SACD ISO support
-&nbsp;
+
+## MPD and SACD ISO support
+
 Although MPD does not officially support **SACD ISO** files, thanks to an **MPD fork** this option became available for MPD users. 
 
 What you need to do is build this fork (or ask your distribution for this package). The source code can be found in this location:
 
 [https://sourceforge.net/projects/mpd.sacddecoder.p/](https://sourceforge.net/projects/mpd.sacddecoder.p/)
 
-This fork is almost identical to MPD apart from the SACD code. You need to edit mpd.conf and put some additional stuff:
+This fork is almost identical to MPD apart from the SACD code. You need to edit **mpd.conf** and put some additional stuff:
 
 	decoder {
 	plugin "sacdiso"
@@ -131,18 +130,18 @@ This fork is almost identical to MPD apart from the SACD code. You need to edit 
 	tags_with_iso "true"
 	}
 
-The first section is for **SACD ISO** and the second for **DVD ISO** (I have never tested DVD ISO to be honest). Please note that you will have to modify for your needs.
+The first section is for **SACD ISO** and the second for **DVD ISO** (I have never tested **DVD ISO** to be honest). Please note that you will have to modify for your needs.
 
-Please note again that if you are using this fork this means that **you are not using official MPD**, so if you have a problem and you need help you should always mention this in forum posts, bug reports etc.
+Please note again that if you are using this fork this means that **you are not using the official MPD**, so if you have a problem and you need help you should always mention this in forum posts, bug reports etc.
 
-&nbsp;
-### Notes and random thoughts
 
-- MPD is a really nice piece of software with very active development. It's always a good idea to use the latest available version.
+## Notes and random thoughts
 
-- If you don't use latest MPD or if you use the SACD **MPD fork**, don't ask for help in musicpd forum. It's a really bad idea!
+- **MPD** is a really nice piece of software with very active development. It's always a good idea to use the latest available version.
 
-- Many DACS have isssues with **DSD silence** and the result is ugly noises when changing tracks, play or pause,etc.. This is not a problem of MPD anymore (it used to be in the past but now it uses the correct DSD silence pattern). My Aune S16 is still very noisy while my DIY 9018K2m with Diyinhk XMOS is completely silent.
+- If you don't use latest MPD or if you use the SACD **MPD fork**, don't ask for help in **musicpd forum**. It's a really bad idea!
+
+- Many DACS have issues with **DSD silence** and the result is ugly noises when changing tracks, play or pause,etc.. This is not a problem of MPD anymore (it used to be in the past but now it uses the correct DSD silence pattern). My Aune S16 is still very noisy while my DIY 9018K2m with Diyinhk XMOS is completely silent.
 
 - If you compare DSD with PCM, even with the same album and you find DSD or PCM superior, please note that you might comparing [different masters]({{ site.baseurl }}{% post_url 2017-10-04-comparison-between-cd-and-vinyl-masters%})! If the sound quality of DSD is better it doesn't mean that the format is better.
 

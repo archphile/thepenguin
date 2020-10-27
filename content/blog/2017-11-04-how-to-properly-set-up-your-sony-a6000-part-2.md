@@ -7,8 +7,7 @@ tags = ["photography", "Sony A6000"]
 +++
 
 Further to my [first post]({{< ref "2017-09-28-how-to-properly-set-up-your-sony-a6000.md" >}})
-regarding the Sony A6000 configuration, below you will find some 
-additional interesting youtube videos that will help you properly configure various focus settings.
+regarding the **Sony A6000** configuration, below you will find some additional interesting Youtube videos that will help you to properly configure various focus settings.
 
 
 **Manual Focus**
@@ -33,5 +32,5 @@ additional interesting youtube videos that will help you properly configure vari
 &nbsp;
 
 
-I highly suggest you to try the back button autofocus technique, using the AEL button!
+I highly suggest you to try the back button auto-focus technique, using the **AEL button**!
  

@@ -6,7 +6,7 @@ categories = ["Linux DIY"]
 tags = ["nas", "usb disk", "samba", "archlinuxarm"]
 +++
 
-Back in 2014, when I started developing [Archphile](http://archphile.org), I was using my desktop PC with [samba](https://www.samba.org/)  in order to share my music to my transport. After almost a year I decided that I didn't want my PC to be running every time I needed to listen to some music. Besides this, my PC was and still is in a small room, very close to my hi-fi, so being heavily obsessed with fan noises (and usually listening to music at low levels), I decided that it was time to create my first "quick and dirty" **USB NAS**.
+Back in 2014, when I started developing [Archphile](http://archphile.org), I used my desktop PC with [samba](https://www.samba.org/)  in order to share music with my transport. After almost a year I decided that I didn't want my PC to be running every time I needed to listen to some music. Besides this, my PC was and still is in a small room, very close to my hi-fi, so being heavily obsessed with fan noises (and usually listening to music at low levels), I decided that it was time to create my first "quick and dirty" **USB NAS**.
 
 I was already using a **Devolo** powerline solution to connect to a Raspberry Pi/Openelec at the living room, so this NAS would go to the other side of the house (close to the RPI) so that I could not hear even the fan noise of the USB disk.
 
@@ -21,14 +21,14 @@ I started looking for various software solutions in order to implement a complet
 - NFS
 - Minidlna server
 - Transmission torrent client
-- USB disk automounting with udevil
+- USB disk auto-mounting with udevil
 - USB disk spinning down with hd-idle/hdparm
 
 etc..
 
 I started using it immediately as a combo with [Archphile](http://archphile.org), as my only need at that time was just to serve my music.
 
-That was when I thought that it would be nice if I sat down and make a Raspberry Pi image (cubox-i was expensive and difficult to find) with all this stuff and share it with the members of a Greek forum I used to be a very active member back then. 
+That was when I thought that it would be nice if I sat down and make a Raspberry Pi image (cubox-i was expensive and difficult to find) with all this stuff and share it with the members of a Greek forum I was a very active member back then. 
 
 ....And this is why I created one of the most unsuccessful projects on planet earth: [Phileserve](https://github.com/archphile/phileserve)! 
 
@@ -54,9 +54,9 @@ Considering the really low cost of this implementation, its performance was quit
 Not bad at all, especially for a NAS just serving the "music library".
 
 
-Anyway, I shared my work on that forum, almost no one cared about it, so I stopped wasting my time  and just kept using **Phileserve** for my own needs.
+Anyway, I shared my work on that forum, almost no one cared about it, so I stopped wasting my time and kept using **Phileserve** for my own needs.
 
-After more than two years of use with the cubox-i4, I replaced the board with an Odroid C1+ and that combo served me until the summer of 2017, when I decided that it was not enough for me..
+After more than two years of use with the cubox-i4, I replaced the board with an Odroid C1+ and that combo served me until the summer of 2017, when I decided that it was not enough for me...
 
 **Note 1:** Phileserve Github repository is still up (and very outdated) and from time to time I push some configuration changes for files like the smb.conf mainly in order to backup. You never know..
 

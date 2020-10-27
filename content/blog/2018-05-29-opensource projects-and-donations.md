@@ -6,13 +6,13 @@ categories = ["General"]
 tags = ["open source", "donation", "paypal", "archphile"]
 +++
 
-Not long ago, I had an argument with a guy on a forum I used to be an active member of. This moron, in order to make his case, publicly implied that the reason I ask for donations for the [Archphile](http://archphile.org) project is to buy new speakers. He knew (from a post I wrote about it) that I am in search of a new pair of speakers after many many years, he wanted to harm my public image, so he decided that it was time to backbite me.
+Not long ago, I had an argument with a guy on a forum I used to be an active member of. This moron, in order to make his case, publicly implied that the main reason I ask for donations for the [Archphile](http://archphile.org) project is in order to buy some new speakers. He knew (from a post I wrote about it) that I am in search of a new pair of speakers after many years; he wanted to harm my public image, so he decided that it was time to backbite me.
 
 Of course no one cares about this moron, but this story made me feel bad once again with what people (don't) understand about donations. 
 
 Let me explain below:
 
-All of us having various open source projects and keep asking for donations, doesn't mean that we don't have a good job or enough money to spend in our everyday life.  
+It doesn't mean that all the developers who maintain various open source projects and keep asking for your donations, that don't have a good job or enough money to spend in their everyday life.  
 
 There are projects that actually need donations in order to survive but this is not always the case. 
 

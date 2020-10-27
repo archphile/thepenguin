@@ -7,27 +7,29 @@ tags = ["linux audio", "dynamic range", "DR14 T.meter"]
 +++
 
 [Dr14 T.meter](https://github.com/simon-r/dr14_t.meter) is an open source command line tool that computes the dynamic range of your music files.
-It's a tool that I use in order to create reports for each of my FLAC albums I have in my music library.
 
-Installing it in Archlinux was pretty easy:
+It's the tool I use to create reports for all the FLAC albums of music library.
+
+Installing it in Archlinux is very easy:
 
 	yaourt -S dr14_tmeter
 
 
-In order to create a report for an album you need the following command:
+To create a report for an album you need the following command:
 
 
 	dr14_tmeter /path/to/album/
 
 
-What is really nice about it is that you can use it recursively in order to create dynamic range repors 
+What is really nice about it this program, is that one can use it recursively in order to create dynamic range reports 
 for multiple albums at once:
 
 	dr14_tmeter -r /path/to/album/library/
 
 
-The result of these commands is a file within the album directory named **dr14.txt**. Here is an example
-of such a file:
+The result of these commands is a file within the album directory named **dr14.txt**. 
+
+Here is an example of such a file:
 
 	﻿----------------------------------------------------------------------------------------------	
 	 Analyzed: Vultures /  Artist: 1000mods

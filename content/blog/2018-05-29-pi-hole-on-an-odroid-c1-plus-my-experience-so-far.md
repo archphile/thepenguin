@@ -6,15 +6,15 @@ categories = ["Linux DIY"]
 tags = ["pi-hole", "odroid c1+","adblock"]
 +++
 
-After dropping **Odoid C1+** support in [Archphile](http://archphile.org), I had this board available and ready for a new project.
+After dropping **Odroid C1+** support in [Archphile](http://archphile.org), this board  became available for some new experiments.
 
 For more than a year, I used [privoxy](https://www.privoxy.org/) on a [Netgear R7000](https://www.netgear.com/home/products/networking/wifi-routers/R7000.aspx) router with [DD-WRT](https://dd-wrt.com/) as my main ad-blocker, but I wanted something easier and more configurable for a daily driver.
 
-This is why I decided to install [pi-hole](https://pi-hole.net/) pi-hole on the Odroid C1+.
+This is why I decided to install [pi-hole](https://pi-hole.net/) pi-hole on the **Odroid C1+**.
 
 ![Pi-hole Overview](/img/pihole-odroidc1.jpg  "Pi-hole")
 
-**Pi-hole** was initialy created for **Raspbian/Raspberry Pi**, but it can run on any **Debian/Ubuntu/Centos** box. So I downloaded [Armbian Ubuntu xenial](https://dl.armbian.com/odroidc1/Ubuntu_xenial_default.7z) , wrote it on an sd card and booted it.
+**Pi-hole** was initially created for **Raspbian/Raspberry Pi**, but it can run on any **Debian/Ubuntu/Centos** box. So I downloaded [Armbian Ubuntu xenial](https://dl.armbian.com/odroidc1/Ubuntu_xenial_default.7z) , wrote it on an sd card and booted it.
 
 Using the following command:
 
@@ -54,9 +54,9 @@ When I get notifications on the web interface that a new version is available, I
 
 	pihole -up
 
-### Summary and Notes
+## Summary and Notes
 
-[Pi-hole](https://pi-hole.net/) is an amazing piece of software. It's highly configurable, extremely easy to install and **it does the job right**, as It blocks the majority of ads that can be blocked via **DNS**. 
+[Pi-hole](https://pi-hole.net/) is an amazing piece of software. It's highly configurable, extremely easy to install and **it does the job right**, as it blocks the majority of ads that can be blocked via **DNS**. 
 
-If you have an available Raspberry Pi or any other board that can get Debian/Ubuntu on it and you care about privacy/adblocking, Pi-hole is a must.
+If you have an available Raspberry Pi or any other board that can get Debian/Ubuntu on it and you care about privacy/ad-blocking, Pi-hole is a must.
 

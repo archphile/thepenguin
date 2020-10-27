@@ -6,18 +6,19 @@ categories = ["Audio"]
 tags = ["linux audio", "cue", "shntool"]
 +++
 
-Let's assume that you have a music album in one flac file and you want to split it so that each song is a separate flac file.
-The linux tool needed for this task is called [shntool](http://www.etree.org/shnutils/shntool/). In order to install it in Archlinux you need to give the following:
+Let's assume that you have a music album in one **.flac** file and you want to split it so that each song is a separate **.flac** file. The linux tool needed for this task is called [shntool](http://www.etree.org/shnutils/shntool/). 
+
+In order to install it in Archlinux you need to give the following:
 
 	pacman -S shntool
 
-The command you need to give in order to get the separate files is:
+To get the separate files give:
 
 	shnsplit -f blabla.cue blabla.flac
 
 where blabla.flac is the album **.flac** and blabla.cue its .**cue** file.
 
-One year ago, I wrote about this tool on an audio forum I participate and I realized that there's people that is really concerned about the quality of the output files after the split. It's very easy to assume that I was the only Linux user so I had to find a way to prove that most of the well known splitting tools (including shntool) have the same results. The methodology used was very easy:
+One year ago, I wrote about this tool on an audio forum I participate and I realized that there's people really concerned about the quality of the output files after the split. It's very easy to assume that I was the only Linux user so I had to find a way to prove that most of the well known splitting tools (including **shntool**) have the same results. The methodology used was very easy:
 
 **1. I ripped an album twice using EAC: one as a big flac and one with separate flac files.**
 
@@ -51,7 +52,8 @@ The shas1ums were the following:
 	d7e348a556bdd5f7980deea3e767d100f67fd41a  06 - Track06.wav
 	870e02543747f275dfe3e1826367a0699728ff96  07 - track07.wav
 	
-As you can see, there were no surprises. The resulting wav files under both procedures were identical.
+
+You can easily see that there were no surprises. The resulting **.wav** files under both procedures were identical.
 
 Now what about, two very popular windows programs that people use in order to split flacs?
 
@@ -66,11 +68,12 @@ This is the result using [Foobar](http://www.foobar2000.org/):
 	870e02543747f275dfe3e1826367a0699728ff96  track [7].wav
 	
 	
+
 and it's obvious that using [CUETools](http://cue.tools/wiki/CUETools_Download) I got the same results.
 
 
-So, what did I do here? I proved that under all procedures, the resulting wav files were in fact the same files. What is different when using shntool, or foobar or CUETools, is the flac compression level (and please don't start with the affect that flac compression level has in sound in 2017!).
+So, what did I do here? I proved that under all procedures, the resulting **.wav** files were in fact the same files. What is different when using **shntool**, **Foobar2000** or **CUETools**, is the flac compression level (and please don't start with the affect that flac compression level has in sound in 2017!).
 
-What is very funny, is that even after I presented the above results to this forum, I got replies like *"yes, but I can still hear a difference comparing the split files between foobar and Cuetools"*.. And then I realized how hard is to win an audiophile. Damn, they always win!
+What is very funny, is that even after I presented the above results to this forum, I got replies like *"yes, but I can still hear a difference comparing the split files between foobar and Cuetools"*.. And then I realized how hard is to "beat" an audiophile. Damn, they always win!
 
 

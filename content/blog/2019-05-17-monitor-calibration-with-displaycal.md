@@ -9,20 +9,21 @@ In this article I will give you some details on the procedure I follow in order 
 
 Please note that I am very far from being an expert in this field and that the following information is based on what I have understood after a whole year of trials and errors.
 
-## My hardware and software configuration
+## Hardware and software configuration
 
 My setup is very complicated comparing to the average photographer's one. My main OS is [Archlinux](https://archlinux.org). For my photographing editing needs I use *Windows 10* on a [KVM virtual machine with GPU Passthrough](https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF). This means that although Windows 10 OS runs on a virtual machine, I am able to use a real isolated GPU with that.
 
 So, every time I need to calibrate, I do the procedure twice: one time for **Archlinux/Intel onboard HD 530** and one time for **Windows 10 VM/Nvidia 1050TI**.
 
-## Hardware and software I use for calibration
+## Hardware and software used for calibration
 
 - [X-Rite Colormunki Display](https://www.xrite.com/service-support/product-support/calibration-solutions/colormunki-display)
 - [DisplayCAL](https://displaycal.net/)
 
 Both of them perform fine under Windows and Linux.
 
-## My calibration targets
+## Calibration targets
+
 Although the following values may vary depending on one's needs, they are a safe choice for everyday use:
 
 - **Temperature:** 6500K

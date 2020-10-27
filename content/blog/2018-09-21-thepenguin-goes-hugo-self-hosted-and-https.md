@@ -21,4 +21,4 @@ Regards,
 
 M.
 
-P.S. **Archphile**  moved  to hugo platform  too. You can check it out using [this link](https://archphile.org).
+P.S. **Archphile**  moved to hugo platform too. You can check it out using [this link](https://archphile.org).

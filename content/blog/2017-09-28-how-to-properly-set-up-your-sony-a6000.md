@@ -8,7 +8,9 @@ tags = ["photography", "Sony A6000"]
 
 During my summer holidays, I decided to buy my first digital camera. After a thorough market research, I finally chose one of Sony's best sellers: the **Mirorless A6000**.
 
-Having no idea about all the settings I had to deal with, I started googling for days, wathed various youtube videos, read blog posts, articles etc. Below you will find some of the best videos I found on youtube that helped me customize my A6000 and begin trying to learn how to shoot in manual mode:
+Having no idea about all the settings I had to deal with, I started googling for days, watched various Youtube videos, read blog posts, articles etc. 
+
+Below you will find some of the best videos I found on Youtube that helped me customize my A6000 and begin my journey in manual mode:
 
 
 ### General Settings
@@ -33,6 +35,6 @@ Having no idea about all the settings I had to deal with, I started googling for
 
 The videos I highly recommend ar the ones by [that1cameraguy](https://www.youtube.com/user/that1cameraguy). This guy is amazing: he has created three videos of more than 80 minutes in total, trying to explain each one of the settings found in A6000 menu.
 
-If you want to learn almost everything about the sony's autofocus settings then you should wath the included videos by [Gary Fong](https://www.youtube.com/user/GFIGARYFONG). Although his suggestions are not my daily driver, it's always good to know what this camera offers and know how to use continuous autofocus with moving objecs or people, face recognition etc. when needed.
+If you want to learn almost everything about the Sony's autofocus settings then you should watch these videos by [Gary Fong](https://www.youtube.com/user/GFIGARYFONG). Although his suggestions are not my daily driver, it's always good to know what this camera offers and to know how to use continuous auto-focus with moving objects or people, face recognition etc. when needed.
 
-However If you don't have the time to watch them all, just spend as much time as you can on the first three videos and after that will you have a very good idea on what this brilliant camera can do.
+However If you don't have the time to watch them all, just spend as much time as you can on the first three videos. Very soon, you will have a very good idea on what this brilliant camera can do.

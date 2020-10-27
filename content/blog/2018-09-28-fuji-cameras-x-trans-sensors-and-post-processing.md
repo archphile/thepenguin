@@ -8,7 +8,6 @@ tags = ["x-trans", "fuji", "demosaicing", "photography"]
 
 If you are an owner of a **Fuji camera** with an **x-trans** sensor, you will probably have already read a lot about the post processing of x-trans RAF files. Although google is full of results about Fuji RAF files and how the various RAW processors handle them, there are many misconceptions that lead to wrong conclusions. In this post I will try to clarify most of them.
 
-&nbsp;
 ## The basics
 
 In order to understand **x-trans sensors** and their differences in post-processing, we first need to understand some principles of digital photography:
@@ -24,7 +23,6 @@ Assuming that we spent 10 minutes to read this really nice article, it's now obv
 **Note:** a sensor without this filter can only produce **greyscale** results 
 
 
-&nbsp;
 ## The main difference (that affects post-processing) of an x-trans sensor
 
 The most popular filter or to name it even better  **color filter array** for digital cameras is the [Bayer filter](https://en.wikipedia.org/wiki/Bayer_filter) and what makes x-trans sensors different is that **they don't use a Bayer filter.**
@@ -37,7 +35,6 @@ Although this is not the only difference between **x-trans sensors** comparing t
 **Note:**  the image was taken from [Petapixel](https://petapixel.com/2017/03/03/x-trans-vs-bayer-sensors-fantastic-claims-test/).
 
 
-&nbsp;
 ## Demosaicing - from RAW data to an image
 
 What is very important to understand, is that **a RAW file is not an image**. It is just a file with data and it needs a lot of mathematical processing before it starts looking like one. The first major step of converting these data to an image, is **demosaicing**:
@@ -51,7 +48,6 @@ Each pixel has:
 
 Using mathematical calculations (demosaicing) we try to guess the remaining two colors of each pixel.
 
-&nbsp;
 ## Differences between RAW editors on x-trans files
 
 When we import a RAW file on a RAW editor like Lightroom or Capture One, the image that we see, is a preview of our **demosaiced RAW data** along with **additional sharpening**, **noise reduction** etc..
@@ -68,7 +64,7 @@ This is the exact reason that Lightroom is ok for most of the RAW files of vario
 
 By now, **it should be obvious how important demosaicing is**, but for the final post-processing **we should consider many additional parameters**.
 
-&nbsp;
+
 ## The X editor is better than the Y!!
 
 Ok, we might be correct, but we need to keep in mind that these two programs:
@@ -83,7 +79,6 @@ Us, being Fuji x-trans camera owners, **we care a lot about 1!!**
 
 If we opened an x-trans file in both Lightroom and Capture One and we found the colors and contrast of the latter better for example,  it's not that Lightroom's colors and contrast suck! It's just that we prefer the preset colors and contrast of Capture One. If we have the knowledge, **we can have the exact same result everywhere**.  
 
-&nbsp;
 ## Well known RAW editors and how they handle x-trans RAW files
 
 ### Lightroom
@@ -112,7 +107,6 @@ For example, when we compare a RAF opened with Capture one with a DNG from IXT o
 
 To sum up, Iridient X-transformer should be considered a RAW "editor" and not just a converter as i**t applies demosaicing, sharpening and noise reduction** and **the DNG it outputs is not RAW** (DNG files can be RAW, but these specific ones aren't!).
 
-&nbsp;
 ## Summary
 
 - **Demosaicing** is really important. When an editor sucks with an x-trans RAF file, the usual suspect is the demosaicing algorithm.

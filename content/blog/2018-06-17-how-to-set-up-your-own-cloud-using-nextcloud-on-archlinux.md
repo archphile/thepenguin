@@ -13,46 +13,45 @@ After writing [this post]({{< ref "2018-06-06-how-to-use-a-simple-text-based-tod
 All I needed was:
 
 - a VPS (I chose one from [Scaleway](https://www.scaleway.com/) )
-- a domain (I already had one used with my previous nextcloud server - I just modified  the DNS entries)
+- a domain (I already had one used with my previous Nextcloud server - I just modified  the DNS entries)
 - 1 hour to install everything  and fine-tune them
 
 Although being an Archlinux user for more 10 years, when it's time to set up a server for something more "crucial", I usually choose [Debian](https://www.debian.org). 
 
-This time I chose to go with [Archlinux](https://www.archlinux.org/) and below I will write a short guide on how you can do the same with me and have your own self-hosted cloud implemenation using **Archlinux/Nextcloud/Nginx/Mariadb/PHP-fpm**.
+This time I chose to go with [Archlinux](https://www.archlinux.org/) and below I will write a short guide on how you can do the same with me and have your own self-hosted cloud implementation using **Archlinux/Nextcloud/Nginx/Mariadb/PHP-fpm**.
 
 **Note:** I am very far from being an **Nginx/Mariadb/PHP** expert. I can't guarantee that the suggested configuration will be secure enough for your custom needs. Please read and follow these instructions at your own risk!
 
-&nbsp;
-#### Scaleway and Archlinux
 
-The Archlinux image scaleway uses is not trouble-free. Something is not right with their permissions, so if you get errors like:
+## Scaleway and Archlinux
+
+The Archlinux image Scaleway uses is not trouble-free. Something is not right with their permissions, so if you get errors like:
 
 	warning: directory permissions differ on /usr/
-	filesystem: 775  package: 755
-	
-	
+	filesystem: 775  package: 755	
+
 A quick workaround is to give the following commands:
 
 	chmod 755 /usr /etc /usr/local /usr/local/sbin /usr/local/bin
-	chmod 755 /etc/sysctl.d/ /etc/systemd/ /etc/systemd/network/ /etc/systemd/system
+	chmod 755 /etc/sysctl.d/ /etc/systemd/ /etc/systemd/network/ /etc/systemd/system	
+
+Last but not least, Scaleway **blocks  SMTP**  by default, so you will need to go to security settings, modify and do a hard reboot from the web interface. This way you will be able to use custom [Nextcloud](https://nextcloud.com/) SMTP settings for email notifications.
 	
-Last but not least, scaleway **blocks  SMTP**  by default, so you will need to go to security settings, modify and do a hard reboot from the web interface. This way you will be able to use custom [Nextcloud](https://nextcloud.com/) SMTP settings for email notifications.
-	
-&nbsp;	
-#### The "basic" stuff
+
+## The "basic" stuff
 
 When you log in for the first time, change your password:
 
 	passwd
 
-[Archlinux](https://archlinux.org)  is a rolling release distro, so a good idea for a "first step" is to upgrade the OS:
+[Archlinux](https://archlinux.org) is a rolling release distro, so a good idea for a "first step" is to upgrade the OS:
 
 	pacman -Sy archlinux-keyring && pacman -Syyu
+
 Then, set a custom hostname:
 
-
 	hostnamectl set-hostname abyss 
-		
+
 Finally, I strongly suggest you to change the SSH port:
 
 	nano /etc/ssh/sshd_config
@@ -64,16 +63,16 @@ and restart the service:
 
 **Note:** I highly suggest you to spend some time in this [Archwiki firewall section](https://wiki.archlinux.org/index.php/Category:Firewalls) and choose a solution for your VPS. As I am not a security expert, this procedure will not be covered by this article!
 
-&nbsp;
-#### The "database" stuff
 
-[Nextcloud](https://nextcloud.com/)  needs a database, so you will have to install and configure [mariadb](https://mariadb.org/)  and then create a database to be used with [Nextcloud](https://nextcloud.com/): 
+## The "database" stuff
+
+[Nextcloud](https://nextcloud.com/) needs a database, so you will have to install and configure [mariadb](https://mariadb.org/)  and then create a database to be used with [Nextcloud](https://nextcloud.com/): 
 
 Install the package:
 
 	pacman -S mariadb
 
-Proceed with the initical configuration:
+Proceed with the initial configuration:
 
 	mysql_install_db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
 
@@ -82,12 +81,11 @@ Start and enable the services:
 	systemctl start mariadb
 	systemctl enable mariadb
 
-secure the mariadb configuration
+Secure the mariadb configuration:
 
 	mysql_secure_installation
 
-
-Create the database for nextcloud:
+Create the database for Nextcloud:
 
 	mysql -u root -p
 	CREATE DATABASE `nextclouddb` DEFAULT CHARACTER SET `utf8` COLLATE `utf8_unicode_ci`;
@@ -97,8 +95,7 @@ Create the database for nextcloud:
 	
 
 
- &nbsp;	
-#### The "PHP" stuff
+## The "PHP" stuff
 
 Install the needed packages:
 
@@ -169,36 +166,36 @@ and save the following content:
 	# Replace the following path with the Nextcloud data directory
 	ReadWritePaths = /usr/share/webapps/nextcloud/data/
 
-# Replace the following path with the Nextcloud data directory
-ReadWritePaths = /var/nextcloud
+Replace the following path with the Nextcloud data directory
 
-[Service]
-ReadWritePaths = /usr/share/webapps/nextcloud/apps
-ReadWritePaths = /etc/webapps/nextcloud/config
+	ReadWritePaths = /var/nextcloud
 
+	[Service]
+	ReadWritePaths = /usr/share/webapps/nextcloud/apps
+	ReadWritePaths = /etc/webapps/nextcloud/config
 
 Finally, start and enable the service:
 
 	systemctl enable php-fpm
 	systemctl start php-fpm
-	
-&nbsp;	
-#### The "Nginx" stuff
+
+
+## The "Nginx" stuff
 
 Install the needed packages:
 
 	pacman -S nginx-mainline wget certbot certbot-nginx
-	
+
+
 create the needed directory structure:
 
 	mkdir /etc/nginx/conf.d/
 
-Get the initial nginx configuration file to use in  order to get the SLL certificate:
+Get the initial Nginx configuration file to use in  order to get the SLL certificate:
 
 	wget https://raw.githubusercontent.com/archphile/configs/master/nginx/nextcloud-initial.conf -O /etc/nginx/conf.d/nextcloud.conf
-	
-**Note:** You will need to edit this file and change "@@FQDN@@" with your domain.
 
+**Note:** You will need to edit this file and change "@@FQDN@@" with your domain.
 
 Edit nginx.conf
 
@@ -212,24 +209,21 @@ Enable and start the service:
 
 	systemctl enable nginx
 	systemctl start nginx
-	
-	
-	
+
 Now it's time to get the certificate:
 
 	certbot --nginx
-	
-	
+
 When certbot is finished, download the final nginx configuration:
 
 	wget https://raw.githubusercontent.com/archphile/configs/master/nginx/nextcloud.conf -O /etc/nginx/conf.d/nextcloud.conf
-	
+
 **Note:** You will need to edit this file and change "@@FQDN@@" with your domain **one more time**.
 
 Now install **cronie** in order to use **cron jobs**:
 
 	pacman -S cronie
-	
+
 start and enale the service:
 
 	systemctl start cronie.service
@@ -238,18 +232,18 @@ start and enale the service:
 Give the following command:
 
 	crontab -e
-	
+
 and put the following line:
 
 	* 4 * * * /usr/bin/certbot renew >/dev/null 2>&1
 
-&nbsp;
-#### The "Nextcloud" stuff
+
+## The "Nextcloud" stuff
 
 Install the package:
 
 	pacman -S nextcloud
-	
+
 Create directory structure and modify permissions:
 
 	chown http:http /usr/share/webapps/nextcloud/
@@ -259,15 +253,12 @@ Create directory structure and modify permissions:
 	chown http:http /usr/share/webapps/nextcloud/apps
 	chmod 750 /usr/share/webapps/nextcloud/data
 	chmod 750 /usr/share/webapps/nextcloud/apps
-	
-	
+
 and now you 're ready to visit your **https:// **domain and start the installation.
 
 After in less than a minute your self-hosted cloud application will be ready to use!
 
-
-&nbsp;
-#### Further improvements:
+## Further improvements:
 
 **- Enable APC caching**
 

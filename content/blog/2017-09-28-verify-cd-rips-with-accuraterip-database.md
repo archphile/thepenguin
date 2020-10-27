@@ -6,12 +6,12 @@ categories = ["Audio"]
 tags = ["linux audio", "accuraterip"]
 +++
 
-When we need to verify the quality of a CD rip, one of the most powerfull tools we have is the [AccurateRip database](http://www.accuraterip.com/).
+When we need to verify the quality of a CD rip, one of the most powerful tools we have is the [AccurateRip database](http://www.accuraterip.com/).
 
-Although I won't go into details on how I rip my CDs (yes, I use EAC with wine :P), I will show you two easy procedures on how to verify a  CD rip using AR database.
+Although I won't go into details on how I rip my CDs (yes, I use EAC with wine :P), I will show you two easy procedures on how to verify a CD rip using AR database.
 
 
-### First Method (Linux Native)
+## First Method (Linux Native)
 
 All we need for the first method is [whipper](https://github.com/JoeLametta/whipper). In order to install it in Archlinux, we need the following command:
 
@@ -45,7 +45,8 @@ This is a typical output of the above command when everything is fine:
 	Track 20: rip accurate     (confidence   3 of   4) [6087c48e], DB [6087c48e]
 	
 &nbsp;
-### Second Method (Using WIne)
+
+## Second Method (Using WIne)
 
 For this method (which is the one I prefer), we first need to install wine. Again for Archlinux the command is:
 
@@ -53,7 +54,7 @@ For this method (which is the one I prefer), we first need to install wine. Agai
 
 Now we need to download the latest available version of [CUETools](http://cue.tools/wiki/CUETools_Download) and extract it on our home folder. A good idea is to rename the directory to something easy, ex. **cuetools**.
 
-Now the command we need to use in order to verify the image is:
+The command we need to use to verify the image is:
 
 	wine /home/your_username/cuetools/ArCueDotNet.exe blabla.cue
 
@@ -214,9 +215,9 @@ A typical output for this command is the following:
 	 
 	 
 
-What is really nice about this windows command line tool, is that not only it verifies using the AccurateRip database, but in addition it does a second verification using [CUETools database](http://cue.tools/wiki/CUETools_Database).
+What is really nice about this windows command line tool, is that not only it verifies using the **AccurateRip** database, but in addition it does a second verification using [CUETools database](http://cue.tools/wiki/CUETools_Database).
 
-After many trials and errors, I ended up using this tool because I trust it more comparing to the first method. I have also created a very small script (it's actually not a script, but one command - you can also create an alias for that) which I use in order to store a log inside each folder of my music library
+After many trials and errors, I ended up using this tool because I trust it more comparing to the first method. I have also created a very small script (it's actually not a script, but one command - you can also create a bash alias for that) which I use in order to store a log inside each folder of my music library
 
 	wine /home/your_username/cuetools/ArCueDotNet.exe *.cue > cuetools.log
 

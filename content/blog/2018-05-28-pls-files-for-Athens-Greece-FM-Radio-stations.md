@@ -11,7 +11,6 @@ Two months ago I found a very interesting [m3u file](https://gist.github.com/den
 
 [https://github.com/archphile/AthensFMRadios](https://github.com/archphile/AthensFMRadios)
 
-
 I tried to include almost every FM Radio station I found online. If you didn't find a station you want, this means:
 
 1. I forgot it
@@ -20,9 +19,9 @@ I tried to include almost every FM Radio station I found online. If you didn't f
 
 For 1 and 2 and in cases where an existing pls is not functional, feel free to open issues, fork and send me back, etc..
 
-For 3, please go away from my blog  immediately or I will use my dark unholy skills to destroy you.. Seriously!
+For 3, please leave this blog immediately or I will use my dark unholy skills to destroy you... Seriously!
 
-### How to use these pls files with Archphile
+## How to use these pls files with Archphile
 
 Its' pretty easy! I have created a very small script that does the job. All you have to do is the following (the first command starts from wget and ends at /arf.sh):
 
@@ -41,7 +40,7 @@ enable the first server line, save and then install unzip command:
 
 	pacman -Sy unzip
 	
-Now you are ready to follow the initial procedure.
+Now you 're ready to follow the initial procedure.
 
 
 **Note 1:** It's obvious that most of these web radios are garbage. Use at your own risk!
