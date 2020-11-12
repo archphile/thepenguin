@@ -21,14 +21,14 @@ The resources [myMPD](https://github.com/jcorporation/myMPD) needs on an **Odroi
 But let's stop with words and see some action:
 
 
-**- Browsing in Filesystem mode:**
+**Browsing in Filesystem mode:**
 
 ![Browse Filesystem section](/img/mympd-1.jpg  "myMPD")
 
 ![Album directory view](/img/mympd-2.jpg  "myMPD")
 
 
-**- Browsing in Database mode:**
+**Browsing in Database mode:**
 
 ![Browse in Dartabase section](/img/mympd-5.jpg  "myMPD")
 
@@ -38,17 +38,17 @@ But let's stop with words and see some action:
 ![myMPD search tab](/img/mympd-8.jpg  "myMPD")
 
 
-**- Album added in Queue:**
+**Album added in Queue:**
 
 ![myMPD Queue](/img/mympd-3.jpg  "myMPD")
 
 
-**- Playback tab showing local cover art:**
+**Playback tab showing local cover art:**
 
 ![myMPD Playback tab](/img/mympd-4.jpg  "myMPD")
 
 
-**- myMPD Menu and Settings:**
+**myMPD Menu and Settings:**
 
 ![myMPD menu](/img/mympd-6.jpg  "myMPD")
 

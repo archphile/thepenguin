@@ -18,7 +18,7 @@ So in June of 2018, I decided that **Instagram** was harming the first real effo
 
 ## Twitter
 
-This decision had a deep impact on me, so I started wondering what was the actual reason I had a **Twitter** account. I always told myself that I used **Twitter** in order to get informed about what is happening in the world, but that was a lie. The reason I used twitter was in order to express my opinion (that nobody should give a fuck about) about everything, being forced from the maximum of the 140 characters to write in a "smartypants" way so that I **get re-tweets**.
+This decision had a deep impact on me, so I started wondering what was the actual reason I had a **Twitter** account. I always told myself that I used **Twitter** in order to get informed about what is happening around the world, but that was a lie. The reason I used twitter was in order to express my opinion (that nobody should give a fuck about) about everything, being forced from the maximum of the 140 characters to write in a "smartypants" way so that I **get re-tweets**.
 
 I started reading all my past tweets and I felt sad. That was not me, but an impersonation of myself **seeking the dopamine that comes after the "reward" of a re-tweet**. Initially I decided to delete all my tweets and stay there only to follow accounts from news agencies etc., but I knew it was not enough. As a result I deleted my **Twitter** account.
 

@@ -8,18 +8,18 @@ tags = ["aeropress", "coffee", "recipe"]
 
 Recently, following the advice of a friend, I bought an [AeroPress](https://aeropress.com/) coffee maker.
 
-I didn't need much time to realize that the coffee that this modular, strange, plastic toy produces is of very high quality, so I started testing some from the hundreds of AeroPress available online, in order to find my best.
+I didn't need much time to realize that the coffee that this modular, strange, plastic toy produces is of very high quality, so I started testing some from the hundreds of AeroPress recipes available online, in order to find my best.
 
 Coffee geeks love accuracy, so on most of the recipes I tried or read about, the use of a scale and a thermometer was necessary.
 
-In addition, in most of the geeky recipes, people like to invert the AeroPress in order to get better control and accuracy.
+In addition, in most of the geeky recipes, people like to invert the AeroPress (making the whole procedure more complicated) in order to get better control and accuracy.
 
 After some tests, I tried [Tim Wendelboe's](https://timwendelboe.no/?v=f214a7d42e0d) recipe:
 
 
 {{< youtube ggCK_oOS_08 >}}
 
-The coffee it produced was amazing, so I decided to follow the [k.i.s.s principle](https://en.wikipedia.org/wiki/KISS_principle) and make it simpler. 
+The coffee it produced was amazing, so I decided to follow the [k.i.s.s. principle](https://en.wikipedia.org/wiki/KISS_principle) and make it simpler. 
 
 The ideal recipe should need:
 
@@ -78,7 +78,7 @@ to either
 
 or
 
-2\. do some tests with each coffee type and note if there's need to use a little bit more or less than the usual scoop
+2\. do some tests with each coffee type (with a scale) and note if there's need to use a little bit more or less than the usual scoop - the more coffees you test, the more variations you may encounter (ex. a single estate "El Salvador" coffee I bought in the past weighted less than 14gr/AeroPress scoup)
 
 
 ## how much water?
@@ -91,7 +91,7 @@ Ideally we need **214gr**, but we will not use a scale, so we will just add wate
 
 This is not (always) 214gr. Based on random measurements and on the fact that one can't be deadly accurate (accuracy depends on how water flows out of your kettle) each time plus that the volume of 15gr inside the AeroPress varies per different type of coffee, it is approx  **208-220gr**, resulting to a ratio that is different but "close" to 0.07.
 
-Note that the water has to be poured relatively quickly. Until the handle is placed on the AeroPress, coffee will be draining through the filter, and if we do this slowly, when the water reaches the desired height, it will be more than the desired weight.
+Note that the water has to be poured relatively quickly (not too quickly though - I pour the water with circular movements and that can't be done super fast!). Until the handle is placed on the AeroPress, coffee will be draining through the filter, and if we do this slowly, when the water reaches the desired height, it will be more than the desired weight.
 
 ## what about the water temperature?
 
@@ -99,7 +99,7 @@ Tim Wendelboe suggests **95°C**, but if you see his video, he just uses water *
 
 I don't like the idea of using 100°C water, so what I do and I suggest you do too, is to boil the water and wait for approx 1min.
 
-Based on random measurements, the water temperature inside my boiler after 1min, is approx. **96-97°C**, but your results may vary, depending on the quality (insulation) of the boiler , room temperature etc.
+Based on random measurements, the water temperature inside my kettle after 1min, is approx. **96-97°C**, but your results may vary, depending on the quality (insulation) of the kettle, room temperature etc.
 
 ### my suggestion is: 
 
@@ -113,8 +113,9 @@ or
 
 ## coffee grind size
 
-To find the ideal grind size you will need to make your own tests (per different type of coffee). I have the [Rhino compact grinder](https://rhinocoffeegear.com/rhinowares-compact-hand-grinder-with-aeropress-adaptor.html), and I usually set it up at **4-6 steps** (in theory 1-3 is for espresso, 2-4 for moka, 3-6 for the AeroPress etc..).  
+To find the ideal grind size you will need to make your own tests (per different type of coffee). I have the [Rhino compact grinder](https://rhinocoffeegear.com/rhinowares-compact-hand-grinder-with-aeropress-adaptor.html), and I usually set it up at **4-6 steps**.
 
+**Update:**  I decided to [find "click zero"](https://www.youtube.com/watch?v=45fpPUQ-5TU) in order to give more accurate information about grinding. So, after "zero calibration", I usually set it up at **6-8 clicks**, with **8** being the most frequent choice.
 
 ## total time
 
@@ -140,7 +141,7 @@ grind 1 AeroPress scoop of coffee beans
 
 **step 3**
 
-start a 60sec timer and immediately start pouring water (relatively quickly) until it reaches the bottom of the 4th circle
+start a 60sec timer and immediately start pouring water (relatively quickly - it takes me approx. 12-13sec) until it reaches the bottom of the 4th circle
 
 **step 4**
 
@@ -159,4 +160,8 @@ Enjoy!
 
 &nbsp;
 
-**Note:** an earlier and shorter version of this text can be found [here](https://aeroprecipe.com/recipes/three-nos).
+**Notes:** 
+
+1. You can experiment with **step 5**, trying stirring more (ex. 5-6 times), resulting in a stronger coffee. You can also increase steep time, ex to 1:20 or 1:30, or even more.
+
+2. An earlier and shorter version of this text can be found [here](https://aeroprecipe.com/recipes/three-nos).

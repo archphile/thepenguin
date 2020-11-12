@@ -11,7 +11,7 @@ Please note that I am very far from being an expert in this field and that the f
 
 ## Hardware and software configuration
 
-My setup is very complicated comparing to the average photographer's one. My main OS is [Archlinux](https://archlinux.org). For my photographing editing needs I use *Windows 10* on a [KVM virtual machine with GPU Passthrough](https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF). This means that although Windows 10 OS runs on a virtual machine, I am able to use a real isolated GPU with that.
+My setup is very complicated comparing to the average photographer's one. My main OS is [Archlinux](https://archlinux.org). For my photo editing needs I use **Windows 10** on a [KVM virtual machine with GPU Passthrough](https://wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF). This means that although Windows 10 OS runs on a virtual machine, I am able to use a real isolated GPU with that.
 
 So, every time I need to calibrate, I do the procedure twice: one time for **Archlinux/Intel onboard HD 530** and one time for **Windows 10 VM/Nvidia 1050TI**.
 
@@ -26,11 +26,11 @@ Both of them perform fine under Windows and Linux.
 
 Although the following values may vary depending on one's needs, they are a safe choice for everyday use:
 
-- **Temperature:** 6500K
-- **White level (brightness):** 90cd/m<sup>2</sup>
-- **Gamma:** 2.2
+- Temperature: **6500K**
+- White level (brightness): **90cd/m<sup>2</sup>**
+- Gamma: **2.2**
 
-Note that many photographers who focus in printing, prefer lower temperatures, ex. **5000K** or **5500K**. I  print my photos too, however I find these settings to be too "yellowish" for everyday use, so I prefer 6500K, which is a safe and widely used value in the digital world.
+Note that many photographers who focus in printing, prefer lower temperatures, ex. **5000K** or **5500K**. I  print my photos too, however I find these settings to be too "yellowish" for everyday use, so I prefer **6500K**, which is a safe and widely used value in the digital world.
 
 Regarding the brightness, most of the articles online suggest a value of **120cd/m<sup>2</sup>**. However I find it **extremely bright**, and after a lot of trials and errors I found **90cd/m<sup>2</sup>** to be more than enough for my needs.
 

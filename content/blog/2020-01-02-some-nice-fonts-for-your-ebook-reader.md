@@ -1,5 +1,5 @@
 +++
-title = "A nice font collection for your e-book reader"
+title = "A nice font collection for your e-book reader (Part I)"
 date =  "2020-01-02"
 categories = ["E-ink"]
 tags = ["ebook", "kindle", "fonts"]
@@ -12,12 +12,12 @@ During the Christmas holidays, I spent some time trying to find an alternative t
 After trying a lot of different alternatives, I ended up with the following ones, which you can download and test them yourself:
 
 - [Linux Libertine](/download/fonts/Libertine.zip) *([source](https://www.mobileread.com/forums/showthread.php?t=291521))*
-- [Google Literata](/download/fonts/Literata.zip) *([source](https://aur.archlinux.org/packages/ttf-literata/))*
+- [Google Literata (36pt version)](/download/fonts/Literata.zip) *([source](https://aur.archlinux.org/packages/ttf-literata/))*
 - [Noto Serif](/download/fonts/NotoSerifEink.zip) *([source](https://www.mobileread.com/forums/showpost.php?p=3492137&postcount=387))*
 - [Charis SIL](/download/fonts/ChareInk%20NoWeight%20v1.1.zip) *([source](https://www.mobileread.com/forums/showthread.php?t=184056))*
-- [Bitter ht](/download/fonts/bitter-ht-regular-italic-bold-bold-italic.zip) *([source](https://www.huertatipografica.com/en/fonts/bitter-ht))*
+- [Bitter ht](/download/fonts/Bitter-Ht.zip) *([source](https://www.huertatipografica.com/en/fonts/bitter-ht))*
 
-If you use a Kindle, just unpack the zip, and put the fonts inside  the  **"fonts"** folder.
+If you use a Kindle, just unpack the zip and put the fonts to **"fonts"** directory.
 
 If you don't have a Kindle and want to use the best kindle font on your e-book reader or app, you can get it using the following link:
 
@@ -25,7 +25,7 @@ If you don't have a Kindle and want to use the best kindle font on your e-book r
 
 As I am writing this words, the font of my preference is **Linux Libertine**. 
 
-In the screenshots below, you can see the difference between Bookerly and the rest of the suggested fonts:
+## Screenshots
 
 **Bookerly**
 
@@ -45,9 +45,9 @@ In the screenshots below, you can see the difference between Bookerly and the re
 
 <br/>
 
-**Noto Sans**
+**Noto Serif**
 
-![Noto Sans Sample](/img/noto-sans-sample.png) 
+![Noto Sans Sample](/img/noto-serif-sample.png) 
 
 <br/>
 
@@ -60,3 +60,7 @@ In the screenshots below, you can see the difference between Bookerly and the re
 **Bitter ht**
 
 ![Bitter ht Sample](/img/bitter-sample.png) 
+
+
+
+**Note:** This article was last edited on **2020-10-29** (updated Bookerly and Literata fonts to their latest versions).

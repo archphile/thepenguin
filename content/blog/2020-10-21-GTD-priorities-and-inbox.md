@@ -10,7 +10,7 @@ tags = ["gtd", "horizons of focus", "freeplane", "folderSync"]
 
 GTD priorities was and remains one of the hottest topics in discussions between GTD users. Most of the new GTD users are usually very confused with them as the [GTD book](https://www.goodreads.com/book/show/1633.Getting_Things_Done) does not suggest an explicit method on how one should prioritize their tasks.
 
-[At a previous post post]({{< ref "2018-09-26-how-i-GTD.md" >}}) I have eplained how I use A,B,C,D priorities on [my todo.txt system]({{< ref "2018-06-06-how-to-use-a-simple-text-based-todo-list-to-get-things-done.md" >}}). What I did not explain, was the logic behind these priorities, the **horizons of focus**.
+[On a previous post post]({{< ref "2018-09-26-how-i-GTD.md" >}}) I have eplained how I use A,B,C,D priorities on [my todo.txt system]({{< ref "2018-06-06-how-to-use-a-simple-text-based-todo-list-to-get-things-done.md" >}}). What I did not explain, was the logic behind these priorities, the **horizons of focus**.
 
 ### Horizons of focus
 
@@ -45,7 +45,7 @@ What is the work you are here to do on the planet, with your life? This is the u
 
 #### What do all these mean? How can they be easily applied?
 
-An easy way for this implementation are **mind maps** (I use [freeplane](https://www.freeplane.org/wiki/index.php/Home) for this purpose):
+I suggest you to go with mind maps (I use [freeplane](https://www.freeplane.org/wiki/index.php/Home) for this purpose):
 
 1. **create an H5 mind map**; H5 deals with your purpose and core principles/values (who am I?, how am I?) and review it whenever additional clarity, direction, alignment and motivation are needed - this map will highly influence all the lower horizons
 
@@ -63,7 +63,7 @@ H5 influences H4, which influences H3, which influences H2 which influences H1 (
 
 The implementation (and frequent revision) of H5/H4/H3/H2 has a huge effect on H1/H0. When you do this, it will be obvious which task should have a higher or lower priority.
 
-Of course, there are other tasks, such as "go buy shoes", where it's obvious that one does not need the horizons of focus in order to decide wether shoes are important or not for their lives :P 
+Of course, there are other tasks, such as "go buy shoes", where it's obvious that one does not need the horizons of focus in order to decide whether shoes are important or not for their lives :P 
 
 
 My final suggestion is to add some recurring tasks on your GTD app for the review of the above:
